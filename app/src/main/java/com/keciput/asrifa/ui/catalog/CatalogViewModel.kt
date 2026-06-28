@@ -5,7 +5,6 @@ import androidx.lifecycle.viewModelScope
 import com.keciput.asrifa.data.repository.CartRepository
 import com.keciput.asrifa.data.repository.CategoryRepository
 import com.keciput.asrifa.data.repository.SnackRepository
-import com.keciput.asrifa.domain.model.CartItem
 import com.keciput.asrifa.domain.model.Snack
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.ExperimentalCoroutinesApi
@@ -13,7 +12,6 @@ import kotlinx.coroutines.FlowPreview
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.*
 import kotlinx.coroutines.launch
-import java.util.UUID
 import javax.inject.Inject
 
 enum class ViewMode { GRID, LIST }
@@ -206,15 +204,7 @@ class CatalogViewModel @Inject constructor(
 
     fun addToCart(snack: Snack) {
         viewModelScope.launch {
-            val cartItem = CartItem(
-                id = UUID.randomUUID().toString(),
-                snackId = snack.id,
-                snackName = snack.name,
-                imageUrl = snack.imageUrl,
-                quantity = 1,
-                pricePerUnit = snack.price
-            )
-            cartRepo.addToCart(cartItem)
+            cartRepo.addToCart(snack.toCartItem())
         }
     }
 

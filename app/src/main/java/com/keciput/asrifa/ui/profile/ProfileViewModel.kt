@@ -1,19 +1,15 @@
 package com.keciput.asrifa.ui.profile
 
-import android.content.Context
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import androidx.work.*
 import com.keciput.asrifa.data.local.UserPreferencesRepository
 import com.keciput.asrifa.data.repository.AuthRepository
 import com.keciput.asrifa.data.repository.StoreInfoRepository
 import com.keciput.asrifa.domain.model.StoreInfo
-import com.keciput.asrifa.ui.notification.StoreStatusWorker
+import com.keciput.asrifa.ui.notification.StoreStatusScheduler
 import dagger.hilt.android.lifecycle.HiltViewModel
-import dagger.hilt.android.qualifiers.ApplicationContext
 import kotlinx.coroutines.flow.*
 import kotlinx.coroutines.launch
-import java.util.concurrent.TimeUnit
 import javax.inject.Inject
 
 data class ProfileUiState(
@@ -30,7 +26,7 @@ class ProfileViewModel @Inject constructor(
     private val storeInfoRepo: StoreInfoRepository,
     private val authRepository: AuthRepository,
     private val userPreferencesRepo: UserPreferencesRepository,
-    @ApplicationContext private val context: Context
+    private val scheduler: StoreStatusScheduler
 ) : ViewModel() {
     private val _uiState = MutableStateFlow(ProfileUiState())
     val uiState = _uiState.asStateFlow()
@@ -112,19 +108,11 @@ class ProfileViewModel @Inject constructor(
     }
 
     private fun scheduleStoreStatusWorker() {
-        val workRequest = PeriodicWorkRequestBuilder<StoreStatusWorker>(15, TimeUnit.MINUTES)
-            .setConstraints(Constraints.NONE)
-            .build()
-
-        WorkManager.getInstance(context).enqueueUniquePeriodicWork(
-            "StoreStatusWork",
-            ExistingPeriodicWorkPolicy.KEEP,
-            workRequest
-        )
+        scheduler.schedule()
     }
 
     private fun cancelStoreStatusWorker() {
-        WorkManager.getInstance(context).cancelUniqueWork("StoreStatusWork")
+        scheduler.cancel()
     }
 
     private fun getAppVersion(): String = try {

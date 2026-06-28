@@ -21,7 +21,22 @@ data class Snack(
     val isFeatured: Boolean = false,
     val isFlashSale: Boolean = false,
     val soldCount: Int = 0
-)
+) {
+    fun toCartItem(
+        quantity: Int = 1,
+        packagingType: PackagingType = PackagingType.ECERAN,
+        selectedVariant: String? = null
+    ) = CartItem(
+        id = java.util.UUID.randomUUID().toString(),
+        snackId = id,
+        snackName = name,
+        imageUrl = imageUrl,
+        quantity = quantity,
+        pricePerUnit = price,
+        packagingType = packagingType,
+        selectedVariant = selectedVariant
+    )
+}
 
 data class Category(
     val id: String,

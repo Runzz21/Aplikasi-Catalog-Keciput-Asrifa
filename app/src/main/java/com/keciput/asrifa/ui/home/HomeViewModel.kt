@@ -1,33 +1,24 @@
 package com.keciput.asrifa.ui.home
 
-import android.content.Context
 import android.os.CountDownTimer
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import androidx.work.Constraints
-import androidx.work.ExistingPeriodicWorkPolicy
-import androidx.work.PeriodicWorkRequestBuilder
-import androidx.work.WorkManager
 import com.keciput.asrifa.R
 import com.keciput.asrifa.data.local.DatabaseSeeder
-import com.keciput.asrifa.data.local.UserPreferencesRepository
 import com.keciput.asrifa.data.repository.CartRepository
 import com.keciput.asrifa.data.repository.CategoryRepository
 import com.keciput.asrifa.data.repository.StoreInfoRepository
 import com.keciput.asrifa.domain.model.Banner
-import com.keciput.asrifa.domain.model.CartItem
 import com.keciput.asrifa.domain.model.Category
 import com.keciput.asrifa.domain.model.Snack
 import com.keciput.asrifa.domain.model.StoreInfo
 import com.keciput.asrifa.domain.usecase.GetFeaturedSnacksUseCase
 import com.keciput.asrifa.domain.usecase.GetFlashSaleSnacksUseCase
 import com.keciput.asrifa.domain.usecase.GetPopularSnacksUseCase
-import com.keciput.asrifa.ui.notification.StoreStatusWorker
+import com.keciput.asrifa.ui.notification.StoreStatusScheduler
 import dagger.hilt.android.lifecycle.HiltViewModel
-import dagger.hilt.android.qualifiers.ApplicationContext
 import kotlinx.coroutines.flow.*
 import kotlinx.coroutines.launch
-import java.util.UUID
 import java.util.concurrent.TimeUnit
 import javax.inject.Inject
 
@@ -59,7 +50,7 @@ class HomeViewModel @Inject constructor(
     private val cartRepo: CartRepository,
     private val storeInfoRepo: StoreInfoRepository,
     private val seeder: DatabaseSeeder,
-    @ApplicationContext private val context: Context
+    private val scheduler: StoreStatusScheduler
 ) : ViewModel() {
 
     private val _uiState = MutableStateFlow(HomeUiState())
@@ -101,19 +92,11 @@ class HomeViewModel @Inject constructor(
     }
 
     private fun scheduleStoreStatusWorker() {
-        val workRequest = PeriodicWorkRequestBuilder<StoreStatusWorker>(15, TimeUnit.MINUTES)
-            .setConstraints(Constraints.NONE)
-            .build()
-
-        WorkManager.getInstance(context).enqueueUniquePeriodicWork(
-            "StoreStatusWork",
-            ExistingPeriodicWorkPolicy.KEEP,
-            workRequest
-        )
+        scheduler.schedule()
     }
 
     private fun cancelStoreStatusWorker() {
-        WorkManager.getInstance(context).cancelUniqueWork("StoreStatusWork")
+        scheduler.cancel()
     }
 
     fun refreshData() {
@@ -162,15 +145,7 @@ class HomeViewModel @Inject constructor(
 
     fun addToCart(snack: Snack) {
         viewModelScope.launch {
-            val cartItem = CartItem(
-                id = UUID.randomUUID().toString(),
-                snackId = snack.id,
-                snackName = snack.name,
-                imageUrl = snack.imageUrl,
-                quantity = 1,
-                pricePerUnit = snack.price
-            )
-            cartRepo.addToCart(cartItem)
+            cartRepo.addToCart(snack.toCartItem())
         }
     }
 

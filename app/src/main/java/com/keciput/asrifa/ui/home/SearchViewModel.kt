@@ -5,14 +5,12 @@ import androidx.lifecycle.viewModelScope
 import com.keciput.asrifa.data.local.UserPreferencesRepository
 import com.keciput.asrifa.data.repository.CartRepository
 import com.keciput.asrifa.data.repository.SnackRepository
-import com.keciput.asrifa.domain.model.CartItem
 import com.keciput.asrifa.domain.model.Snack
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.*
 import kotlinx.coroutines.launch
-import java.util.UUID
 import javax.inject.Inject
 
 data class SearchUiState(
@@ -107,15 +105,7 @@ class SearchViewModel @Inject constructor(
 
     fun addToCart(snack: Snack) {
         viewModelScope.launch {
-            val cartItem = CartItem(
-                id = UUID.randomUUID().toString(),
-                snackId = snack.id,
-                snackName = snack.name,
-                imageUrl = snack.imageUrl,
-                quantity = 1,
-                pricePerUnit = snack.price
-            )
-            cartRepo.addToCart(cartItem)
+            cartRepo.addToCart(snack.toCartItem())
         }
     }
 }

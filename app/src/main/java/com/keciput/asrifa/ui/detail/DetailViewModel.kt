@@ -7,14 +7,12 @@ import com.keciput.asrifa.data.repository.AuthRepository
 import com.keciput.asrifa.data.repository.CartRepository
 import com.keciput.asrifa.data.repository.ReviewRepository
 import com.keciput.asrifa.data.repository.SnackRepository
-import com.keciput.asrifa.domain.model.CartItem
 import com.keciput.asrifa.domain.model.PackagingType
 import com.keciput.asrifa.domain.model.Review
 import com.keciput.asrifa.domain.model.Snack
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.*
 import kotlinx.coroutines.launch
-import java.util.UUID
 import javax.inject.Inject
 
 data class DetailUiState(
@@ -95,17 +93,13 @@ class DetailViewModel @Inject constructor(
     fun addToCart() {
         val snack = uiState.value.snack ?: return
         viewModelScope.launch {
-            val cartItem = CartItem(
-                id = UUID.randomUUID().toString(),
-                snackId = snack.id,
-                snackName = snack.name,
-                imageUrl = snack.imageUrl,
-                selectedVariant = uiState.value.selectedVariant,
-                packagingType = uiState.value.selectedPackaging,
-                quantity = uiState.value.quantity,
-                pricePerUnit = snack.price
+            cartRepo.addToCart(
+                snack.toCartItem(
+                    quantity = uiState.value.quantity,
+                    packagingType = uiState.value.selectedPackaging,
+                    selectedVariant = uiState.value.selectedVariant
+                )
             )
-            cartRepo.addToCart(cartItem)
         }
     }
 }
