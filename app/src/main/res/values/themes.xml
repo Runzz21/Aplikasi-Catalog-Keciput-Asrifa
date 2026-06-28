@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema Utama Aplikasi -->
+    <style name="Theme.Keciput" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:windowBackground">@color/splash_bg</item>
+        <item name="android:statusBarColor">@color/splash_bg</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <!-- Splash Screen Sistem (Android 12+) -->
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <!-- Background Splash Screen (Warna Cream Project) -->
+        <item name="windowSplashScreenBackground">@color/splash_bg</item>
+
+        <!-- Logo Animasi Splash (Sudah diperbesar padding-nya) -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash_logo</item>
+
+        <!-- Theme setelah splash sistem selesai -->
+        <item name="postSplashScreenTheme">@style/Theme.Keciput</item>
+    </style>
+</resources>

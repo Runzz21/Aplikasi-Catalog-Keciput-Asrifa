@@ -1,0 +1,50 @@
+[
+  {
+    "id": "city-001",
+    "name": "Sidoarjo",
+    "province": "Jawa Timur",
+    "imageUrl": "https://picsum.photos/seed/sidoarjo/400/200"
+  },
+  {
+    "id": "city-002",
+    "name": "Malang",
+    "province": "Jawa Timur",
+    "imageUrl": "https://picsum.photos/seed/malang/400/200"
+  },
+  {
+    "id": "city-003",
+    "name": "Garut",
+    "province": "Jawa Barat",
+    "imageUrl": "https://picsum.photos/seed/garut/400/200"
+  },
+  {
+    "id": "city-004",
+    "name": "Surabaya",
+    "province": "Jawa Timur",
+    "imageUrl": "https://picsum.photos/seed/surabaya/400/200"
+  },
+  {
+    "id": "city-005",
+    "name": "Semarang",
+    "province": "Jawa Tengah",
+    "imageUrl": "https://picsum.photos/seed/semarang/400/200"
+  },
+  {
+    "id": "city-006",
+    "name": "Bandung",
+    "province": "Jawa Barat",
+    "imageUrl": "https://picsum.photos/seed/bandung/400/200"
+  },
+  {
+    "id": "city-007",
+    "name": "Tegal",
+    "province": "Jawa Tengah",
+    "imageUrl": "https://picsum.photos/seed/tegal/400/200"
+  },
+  {
+    "id": "city-008",
+    "name": "Yogyakarta",
+    "province": "DI Yogyakarta",
+    "imageUrl": "https://picsum.photos/seed/jogja/400/200"
+  }
+]

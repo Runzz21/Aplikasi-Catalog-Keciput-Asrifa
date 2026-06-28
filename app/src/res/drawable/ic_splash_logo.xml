@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Menggunakan satu item yang diletakkan tepat di tengah -->
+    <!-- Ukuran 80dp adalah ukuran ideal agar logo terlihat besar tapi tetap aman di dalam lingkaran sistem -->
+    <item
+        android:gravity="center"
+        android:width="80dp"
+        android:height="80dp">
+        <bitmap
+            android:src="@drawable/logokeciputasrifa"
+            android:gravity="center"
+            android:filter="true" />
+    </item>
+</layer-list>

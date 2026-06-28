@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KeciputAsrifa</string>
+    <string name="brand_name">Keciput Asrifa</string>
+    <string name="tagline">Oleh-oleh Khas Mojokerto</string>
+    <string name="loading_app">Memuat aplikasi...</string>
+    <string name="copyright">Keciput Asrifa © 2024</string>
+    <string name="app_version">v1.0.0</string>
+</resources>

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cat-001",
+    "name": "Kerupuk & Rambak",
+    "iconUrl": "ic_category_kerupuk"
+  },
+  {
+    "id": "cat-002",
+    "name": "Snack Ringan",
+    "iconUrl": "ic_category_snack"
+  },
+  {
+    "id": "cat-003",
+    "name": "Kacang-kacangan",
+    "iconUrl": "ic_category_kacang"
+  },
+  {
+    "id": "cat-004",
+    "name": "Olahan Singkong & Pisang",
+    "iconUrl": "ic_category_singkong"
+  },
+  {
+    "id": "cat-005",
+    "name": "Olahan Tempe",
+    "iconUrl": "ic_category_tempe"
+  },
+  {
+    "id": "cat-006",
+    "name": "Kue Kering",
+    "iconUrl": "ic_category_kue"
+  },
+  {
+    "id": "cat-007",
+    "name": "Olahan Tahu",
+    "iconUrl": "ic_category_tahu"
+  }
+]

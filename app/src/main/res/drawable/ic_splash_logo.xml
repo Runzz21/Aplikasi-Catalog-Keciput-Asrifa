@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <color android:color="@android:color/transparent" />
+    </item>
+    <!-- Atur padding di sini (android:left, right, top, bottom).
+         Makin besar angkanya, makin kecil logonya. -->
+    <item
+        android:drawable="@drawable/logokeciputasrifa"
+        android:left="35dp"
+        android:right="35dp"
+        android:top="35dp"
+        android:bottom="35dp" />
+</layer-list>

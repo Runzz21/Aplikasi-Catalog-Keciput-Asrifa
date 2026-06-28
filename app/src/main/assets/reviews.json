@@ -1,0 +1,3728 @@
+[
+  {
+    "id": "review_1_1",
+    "snackId": "1",
+    "reviewerName": "Rina Marlina",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Kerupuk tengirinya gurih, beneran kerasa ikannya.",
+    "reviewDate": "20 May 2026"
+  },
+  {
+    "id": "review_1_2",
+    "snackId": "1",
+    "reviewerName": "Agus Wijaya",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Aroma ikan tengirinya kuat tapi tetap renyah pas digigit, mantap.",
+    "reviewDate": "04 Apr 2026"
+  },
+  {
+    "id": "review_1_3",
+    "snackId": "1",
+    "reviewerName": "Rizki Ramadhan",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka banget sama kerupuk tengiri ini, gurihnya pas dan nggak bikin enek, cocok buat lauk tambahan. Pengiriman juga rapi jadi sampai rumah masih utuh.",
+    "reviewDate": "11 Mar 2026"
+  },
+  {
+    "id": "review_1_4",
+    "snackId": "1",
+    "reviewerName": "Joko Susilo",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Enak sih tapi agak berminyak, mungkin bisa ditiriskan lebih lama lagi.",
+    "reviewDate": "28 May 2026"
+  },
+  {
+    "id": "review_1_5",
+    "snackId": "1",
+    "reviewerName": "Arif Rahman",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kerupuk tengirinya gurih, beneran kerasa ikannya. Pengiriman juga rapi jadi sampai rumah masih utuh.",
+    "reviewDate": "05 Mar 2026"
+  },
+  {
+    "id": "review_2_1",
+    "snackId": "2",
+    "reviewerName": "Yulianti",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Tekstur kerupuk gadung ini pas, gurih dan nggak keras.",
+    "reviewDate": "19 Apr 2026"
+  },
+  {
+    "id": "review_2_2",
+    "snackId": "2",
+    "reviewerName": "Maya Sari",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Rasanya enak tapi agak tipis kerupuknya jadi gampang remuk di kemasan.",
+    "reviewDate": "12 May 2026"
+  },
+  {
+    "id": "review_2_3",
+    "snackId": "2",
+    "reviewerName": "Dedi Kurniadi",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Kerupuk gadung tradisional yang susah dicari, untungnya di sini ada dan rasanya autentik banget.",
+    "reviewDate": "12 Mar 2026"
+  },
+  {
+    "id": "review_2_4",
+    "snackId": "2",
+    "reviewerName": "Rahma Wati",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kerupuk gadungnya renyah, rasanya khas banget.",
+    "reviewDate": "08 Apr 2026"
+  },
+  {
+    "id": "review_2_5",
+    "snackId": "2",
+    "reviewerName": "Dian Safitri",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Jujur, tekstur kerupuk gadung ini pas, gurih dan nggak keras. Lumayan buat stok di rumah.",
+    "reviewDate": "06 Apr 2026"
+  },
+  {
+    "id": "review_3_1",
+    "snackId": "3",
+    "reviewerName": "Fitri Handayani",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Amplang mini ini favorit keluarga, anak-anak suka karena ukurannya pas di mulut dan nggak keras.",
+    "reviewDate": "11 Apr 2026"
+  },
+  {
+    "id": "review_3_2",
+    "snackId": "3",
+    "reviewerName": "Mega Puspita",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Ukuran mini jadi gampang dimakan banyak, gurih ikannya berasa.",
+    "reviewDate": "13 Jun 2026"
+  },
+  {
+    "id": "review_3_3",
+    "snackId": "3",
+    "reviewerName": "Irfan Maulana",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Amplang mininya pas buat camilan sambil nonton, renyah terus. Recommended banget buat yang lagi cari oleh-oleh.",
+    "reviewDate": "10 Mar 2026"
+  },
+  {
+    "id": "review_3_4",
+    "snackId": "3",
+    "reviewerName": "Hendra Gunawan",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi agak asin buat lidah saya, mungkin perlu versi less salt.",
+    "reviewDate": "25 Mar 2026"
+  },
+  {
+    "id": "review_3_5",
+    "snackId": "3",
+    "reviewerName": "Arif Rahman",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Buat saya, amplang mini ini favorit keluarga, anak-anak suka karena ukurannya pas di mulut dan nggak keras. Worth it kok.",
+    "reviewDate": "09 Mar 2026"
+  },
+  {
+    "id": "review_4_1",
+    "snackId": "4",
+    "reviewerName": "Fajar Nugroho",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Rambaknya renyah dan gurih, cocok buat teman nasi.",
+    "reviewDate": "28 Apr 2026"
+  },
+  {
+    "id": "review_4_2",
+    "snackId": "4",
+    "reviewerName": "Fauzan Akbar",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Sudah langganan rambak di sini, renyahnya tahan lama dan rasanya konsisten setiap beli.",
+    "reviewDate": "01 May 2026"
+  },
+  {
+    "id": "review_4_3",
+    "snackId": "4",
+    "reviewerName": "Imam Syafii",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Rambak ini krenyes terus walau sudah dibuka beberapa hari.",
+    "reviewDate": "18 May 2026"
+  },
+  {
+    "id": "review_4_4",
+    "snackId": "4",
+    "reviewerName": "Rizki Ramadhan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Rambaknya renyah dan gurih, cocok buat teman nasi. Saya sudah beberapa kali repeat order dan kualitasnya konsisten.",
+    "reviewDate": "18 May 2026"
+  },
+  {
+    "id": "review_4_5",
+    "snackId": "4",
+    "reviewerName": "Putri Ayu",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi agak keras di beberapa potongan, mungkin kematangan goreng kurang merata.",
+    "reviewDate": "13 Jun 2026"
+  },
+  {
+    "id": "review_5_1",
+    "snackId": "5",
+    "reviewerName": "Dwi Cahyani",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Saya beli rambak mentah ini buat digoreng sendiri di rumah, hasilnya mengembang rapi dan rasanya gurih banget.",
+    "reviewDate": "22 Mar 2026"
+  },
+  {
+    "id": "review_5_2",
+    "snackId": "5",
+    "reviewerName": "Nita Rahmawati",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Bagus tapi harganya lumayan, perlu skill goreng biar hasilnya maksimal.",
+    "reviewDate": "27 Feb 2026"
+  },
+  {
+    "id": "review_5_3",
+    "snackId": "5",
+    "reviewerName": "Doni Saputra",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Rambak mentahnya bagus, pas digoreng ngembang sempurna.",
+    "reviewDate": "12 Jun 2026"
+  },
+  {
+    "id": "review_5_4",
+    "snackId": "5",
+    "reviewerName": "Anisa Rahmadani",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kualitas rambak mentah premium, hasil gorengnya kriuk maksimal.",
+    "reviewDate": "03 May 2026"
+  },
+  {
+    "id": "review_5_5",
+    "snackId": "5",
+    "reviewerName": "Tono Setiawan",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Saya beli rambak mentah ini buat digoreng sendiri di rumah, hasilnya mengembang rapi dan rasanya gurih banget.",
+    "reviewDate": "02 Mar 2026"
+  },
+  {
+    "id": "review_6_1",
+    "snackId": "6",
+    "reviewerName": "Joko Susilo",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Cassava chips ini beda dari singkong biasa, lebih renyah dan kemasan rapi.",
+    "reviewDate": "06 May 2026"
+  },
+  {
+    "id": "review_6_2",
+    "snackId": "6",
+    "reviewerName": "Ani Susilawati",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka sama tekstur keripik cassava ini, tipis merata dan rasanya gurih pas, nggak terlalu asin. Bakal jadi langganan kalau lewat sini lagi.",
+    "reviewDate": "06 May 2026"
+  },
+  {
+    "id": "review_6_3",
+    "snackId": "6",
+    "reviewerName": "Tono Setiawan",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi porsinya kerasa sedikit dibanding harga.",
+    "reviewDate": "20 Mar 2026"
+  },
+  {
+    "id": "review_6_4",
+    "snackId": "6",
+    "reviewerName": "Hari Setiawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Keripik cassava-nya tipis dan kriuk, addictive banget.",
+    "reviewDate": "20 Feb 2026"
+  },
+  {
+    "id": "review_6_5",
+    "snackId": "6",
+    "reviewerName": "Hasan Basri",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Cassava chips ini beda dari singkong biasa, lebih renyah dan kemasan rapi.",
+    "reviewDate": "21 May 2026"
+  },
+  {
+    "id": "review_7_1",
+    "snackId": "7",
+    "reviewerName": "Joko Susilo",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Carang masnya manis legit, pas banget buat oleh-oleh. Recommended banget buat yang lagi cari oleh-oleh.",
+    "reviewDate": "20 Apr 2026"
+  },
+  {
+    "id": "review_7_2",
+    "snackId": "7",
+    "reviewerName": "Ani Susilawati",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi menurut saya agak terlalu manis untuk lidah saya.",
+    "reviewDate": "10 Jun 2026"
+  },
+  {
+    "id": "review_7_3",
+    "snackId": "7",
+    "reviewerName": "Indah Permatasari",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Manisnya carang mas ini nggak eneg, gula jawanya berasa banget.",
+    "reviewDate": "26 Feb 2026"
+  },
+  {
+    "id": "review_7_4",
+    "snackId": "7",
+    "reviewerName": "Nina Marlina",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Carang mas khas Mojokerto ini juara, manis legit dan teksturnya masih renyah meski sudah lama dibuka.",
+    "reviewDate": "17 May 2026"
+  },
+  {
+    "id": "review_7_5",
+    "snackId": "7",
+    "reviewerName": "Wahyu Hidayat",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Carang masnya manis legit, pas banget buat oleh-oleh.",
+    "reviewDate": "14 May 2026"
+  },
+  {
+    "id": "review_8_1",
+    "snackId": "8",
+    "reviewerName": "Yoga Pratama",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Samiler ini cocok jadi camilan santai, bumbu rempahnya kerasa. Recommended banget buat yang lagi cari oleh-oleh.",
+    "reviewDate": "19 Mar 2026"
+  },
+  {
+    "id": "review_8_2",
+    "snackId": "8",
+    "reviewerName": "Slamet Riyadi",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Rasanya enak tapi agak tebal kerupuknya, jadi butuh waktu lebih lama buat habis dikunyah.",
+    "reviewDate": "10 Jun 2026"
+  },
+  {
+    "id": "review_8_3",
+    "snackId": "8",
+    "reviewerName": "Asep Saepudin",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Sudah lama cari samiler enak, akhirnya nemu di sini, rasanya pas dan tidak terlalu keras.",
+    "reviewDate": "12 Apr 2026"
+  },
+  {
+    "id": "review_8_4",
+    "snackId": "8",
+    "reviewerName": "Wahyu Hidayat",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Samiler bumbunya berasa, gurih dan renyah.",
+    "reviewDate": "15 Jun 2026"
+  },
+  {
+    "id": "review_8_5",
+    "snackId": "8",
+    "reviewerName": "Eko Prasetyo",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Samiler ini cocok jadi camilan santai, bumbu rempahnya kerasa.",
+    "reviewDate": "27 Feb 2026"
+  },
+  {
+    "id": "review_9_1",
+    "snackId": "9",
+    "reviewerName": "Dedi Kurniadi",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka rasa pia krispi ini, krispi di luar lembut di dalam.",
+    "reviewDate": "07 May 2026"
+  },
+  {
+    "id": "review_9_2",
+    "snackId": "9",
+    "reviewerName": "Joko Susilo",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Pia krispinya enak, kulitnya tipis dan isiannya melimpah.",
+    "reviewDate": "28 Feb 2026"
+  },
+  {
+    "id": "review_9_3",
+    "snackId": "9",
+    "reviewerName": "Hendra Gunawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Pia krispi ini beda dari pia biasa, teksturnya lebih garing dan variannya banyak jadi nggak bosan. Bakal jadi langganan kalau lewat sini lagi.",
+    "reviewDate": "12 Apr 2026"
+  },
+  {
+    "id": "review_9_4",
+    "snackId": "9",
+    "reviewerName": "Ani Susilawati",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Enak tapi cepat habis karena nagih, porsi sekotak kurang banyak.",
+    "reviewDate": "20 Jun 2026"
+  },
+  {
+    "id": "review_9_5",
+    "snackId": "9",
+    "reviewerName": "Kartika Putri",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Jujur, suka rasa pia krispi ini, krispi di luar lembut di dalam. Worth it kok.",
+    "reviewDate": "13 Jun 2026"
+  },
+  {
+    "id": "review_10_1",
+    "snackId": "10",
+    "reviewerName": "Kartika Putri",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Astor jadi camilan wajib tiap kumpul keluarga, renyah dan krimnya pas tidak terlalu manis.",
+    "reviewDate": "25 Apr 2026"
+  },
+  {
+    "id": "review_10_2",
+    "snackId": "10",
+    "reviewerName": "Citra Dewi",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Astornya renyah, krimnya lembut, favorit anak-anak di rumah. Pengiriman juga rapi jadi sampai rumah masih utuh.",
+    "reviewDate": "08 Mar 2026"
+  },
+  {
+    "id": "review_10_3",
+    "snackId": "10",
+    "reviewerName": "Gilang Ramadhan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Astor ini variannya lengkap, semua rasa enak terutama coklat.",
+    "reviewDate": "19 Jun 2026"
+  },
+  {
+    "id": "review_10_4",
+    "snackId": "10",
+    "reviewerName": "Vina Oktaviani",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Astor jadi camilan wajib tiap kumpul keluarga, renyah dan krimnya pas tidak terlalu manis. Worth it kok.",
+    "reviewDate": "05 Apr 2026"
+  },
+  {
+    "id": "review_10_5",
+    "snackId": "10",
+    "reviewerName": "Indah Permatasari",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi beberapa batang agak remuk pas sampai, mungkin kemasan perlu diperkuat.",
+    "reviewDate": "12 Jun 2026"
+  },
+  {
+    "id": "review_11_1",
+    "snackId": "11",
+    "reviewerName": "Anisa Rahmadani",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kacang shanghainya gurih, lapisan tepungnya tipis dan renyah.",
+    "reviewDate": "25 Apr 2026"
+  },
+  {
+    "id": "review_11_2",
+    "snackId": "11",
+    "reviewerName": "Doni Saputra",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Suka kacang shanghai ini, nggak terlalu keras dan rasanya pas.",
+    "reviewDate": "24 Mar 2026"
+  },
+  {
+    "id": "review_11_3",
+    "snackId": "11",
+    "reviewerName": "Fajar Nugroho",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kacang shanghai di sini beda, lapisannya garing merata dan kacangnya tetap kerasa gurih.",
+    "reviewDate": "15 Jun 2026"
+  },
+  {
+    "id": "review_11_4",
+    "snackId": "11",
+    "reviewerName": "Gilang Ramadhan",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Jujur, kacang shanghainya gurih, lapisan tepungnya tipis dan renyah.",
+    "reviewDate": "16 Jun 2026"
+  },
+  {
+    "id": "review_11_5",
+    "snackId": "11",
+    "reviewerName": "Wulan Sari",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Enak tapi agak berminyak di kemasan.",
+    "reviewDate": "03 Mar 2026"
+  },
+  {
+    "id": "review_12_1",
+    "snackId": "12",
+    "reviewerName": "Wulan Sari",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi ukurannya kecil-kecil jadi cepat habis.",
+    "reviewDate": "16 May 2026"
+  },
+  {
+    "id": "review_12_2",
+    "snackId": "12",
+    "reviewerName": "Eko Prasetyo",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Pluntir ini mengingatkan jajanan masa kecil, renyah dan manisnya pas, recommended buat oleh-oleh.",
+    "reviewDate": "06 Apr 2026"
+  },
+  {
+    "id": "review_12_3",
+    "snackId": "12",
+    "reviewerName": "Andi Saputra",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kue pluntirnya renyah dan manis pas, jadul tapi tetap enak.",
+    "reviewDate": "30 May 2026"
+  },
+  {
+    "id": "review_12_4",
+    "snackId": "12",
+    "reviewerName": "Rina Marlina",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka tekstur pluntir ini, garing dan nggak keras.",
+    "reviewDate": "02 May 2026"
+  },
+  {
+    "id": "review_12_5",
+    "snackId": "12",
+    "reviewerName": "Sigit Purnomo",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Pluntir ini mengingatkan jajanan masa kecil, renyah dan manisnya pas, recommended buat oleh-oleh.",
+    "reviewDate": "13 Jun 2026"
+  },
+  {
+    "id": "review_12_6",
+    "snackId": "12",
+    "reviewerName": "Sri Wahyuni",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Buat saya, kue pluntirnya renyah dan manis pas, jadul tapi tetap enak.",
+    "reviewDate": "11 Jun 2026"
+  },
+  {
+    "id": "review_13_1",
+    "snackId": "13",
+    "reviewerName": "Fitri Handayani",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Suka marning ini, gurihnya natural dan teksturnya kriuk terus.",
+    "reviewDate": "03 Apr 2026"
+  },
+  {
+    "id": "review_13_2",
+    "snackId": "13",
+    "reviewerName": "Lia Anggraini",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Enak tapi agak keras buat sebagian biji jagungnya.",
+    "reviewDate": "10 Jun 2026"
+  },
+  {
+    "id": "review_13_3",
+    "snackId": "13",
+    "reviewerName": "Doni Saputra",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Marning jagung ini jadi andalan nemenin kerja, rasanya simple tapi bikin nagih, gurih natural. Saya sudah beberapa kali repeat order dan kualitasnya konsisten.",
+    "reviewDate": "29 May 2026"
+  },
+  {
+    "id": "review_13_4",
+    "snackId": "13",
+    "reviewerName": "Yulianti",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Marning jagungnya renyah, rasa originalnya pas buat camilan santai.",
+    "reviewDate": "27 Mar 2026"
+  },
+  {
+    "id": "review_13_5",
+    "snackId": "13",
+    "reviewerName": "Rina Marlina",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka marning ini, gurihnya natural dan teksturnya kriuk terus.",
+    "reviewDate": "05 Apr 2026"
+  },
+  {
+    "id": "review_13_6",
+    "snackId": "13",
+    "reviewerName": "Nina Marlina",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Marning jagung ini jadi andalan nemenin kerja, rasanya simple tapi bikin nagih, gurih natural.",
+    "reviewDate": "26 Apr 2026"
+  },
+  {
+    "id": "review_14_1",
+    "snackId": "14",
+    "reviewerName": "Rudi Hartono",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi rasanya agak terlalu asam buat sebagian orang.",
+    "reviewDate": "28 Feb 2026"
+  },
+  {
+    "id": "review_14_2",
+    "snackId": "14",
+    "reviewerName": "Diah Lestari",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Suka rasa pilus rujak ini, manis pedas segar beda dari pilus biasa.",
+    "reviewDate": "17 Jun 2026"
+  },
+  {
+    "id": "review_14_3",
+    "snackId": "14",
+    "reviewerName": "Kartika Putri",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Pilus rujaknya unik, bumbu rujaknya nempel sempurna.",
+    "reviewDate": "03 Apr 2026"
+  },
+  {
+    "id": "review_14_4",
+    "snackId": "14",
+    "reviewerName": "Ani Susilawati",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Pilus rujak ini jadi favorit baru saya, bumbunya nyegerin dan teksturnya tetap renyah.",
+    "reviewDate": "10 May 2026"
+  },
+  {
+    "id": "review_14_5",
+    "snackId": "14",
+    "reviewerName": "Fauzan Akbar",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka rasa pilus rujak ini, manis pedas segar beda dari pilus biasa. Pengiriman juga rapi jadi sampai rumah masih utuh.",
+    "reviewDate": "15 May 2026"
+  },
+  {
+    "id": "review_14_6",
+    "snackId": "14",
+    "reviewerName": "Wulan Sari",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Buat saya, pilus rujaknya unik, bumbu rujaknya nempel sempurna. Worth it kok.",
+    "reviewDate": "08 Jun 2026"
+  },
+  {
+    "id": "review_15_1",
+    "snackId": "15",
+    "reviewerName": "Indah Permatasari",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Rengginang udang ini jadi favorit pas lebaran, gurihnya nendang dan teksturnya garing sempurna.",
+    "reviewDate": "20 Apr 2026"
+  },
+  {
+    "id": "review_15_2",
+    "snackId": "15",
+    "reviewerName": "Dian Safitri",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka rengginang ini, garing dan rasa udangnya berasa banget. Recommended banget buat yang lagi cari oleh-oleh.",
+    "reviewDate": "17 Apr 2026"
+  },
+  {
+    "id": "review_15_3",
+    "snackId": "15",
+    "reviewerName": "Wawan Setiawan",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi agak keras di bagian pinggir.",
+    "reviewDate": "17 May 2026"
+  },
+  {
+    "id": "review_15_4",
+    "snackId": "15",
+    "reviewerName": "Yulianti",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Rengginang udangnya gurih, aroma udangnya kuat.",
+    "reviewDate": "19 Mar 2026"
+  },
+  {
+    "id": "review_15_5",
+    "snackId": "15",
+    "reviewerName": "Nita Rahmawati",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Menurut saya, rengginang udang ini jadi favorit pas lebaran, gurihnya nendang dan teksturnya garing sempurna. Worth it kok.",
+    "reviewDate": "26 Apr 2026"
+  },
+  {
+    "id": "review_16_1",
+    "snackId": "16",
+    "reviewerName": "Mega Puspita",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Rengginang lorjuknya khas, rasa lautnya unik dan gurih. Saya sudah beberapa kali repeat order dan kualitasnya konsisten.",
+    "reviewDate": "14 Jun 2026"
+  },
+  {
+    "id": "review_16_2",
+    "snackId": "16",
+    "reviewerName": "Tono Setiawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Rengginang lorjuk ini istimewa, rasa seafoodnya autentik dan teksturnya tetap garing meski disimpan lama.",
+    "reviewDate": "27 May 2026"
+  },
+  {
+    "id": "review_16_3",
+    "snackId": "16",
+    "reviewerName": "Sri Wahyuni",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi harganya agak mahal dibanding rengginang biasa.",
+    "reviewDate": "10 Jun 2026"
+  },
+  {
+    "id": "review_16_4",
+    "snackId": "16",
+    "reviewerName": "Agus Wijaya",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka banget sama rengginang lorjuk ini, susah dicari di tempat lain. Saya sudah beberapa kali repeat order dan kualitasnya konsisten.",
+    "reviewDate": "30 May 2026"
+  },
+  {
+    "id": "review_16_5",
+    "snackId": "16",
+    "reviewerName": "Ahmad Fauzi",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Rengginang lorjuknya khas, rasa lautnya unik dan gurih.",
+    "reviewDate": "20 Mar 2026"
+  },
+  {
+    "id": "review_16_6",
+    "snackId": "16",
+    "reviewerName": "Wahyu Hidayat",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Rengginang lorjuk ini istimewa, rasa seafoodnya autentik dan teksturnya tetap garing meski disimpan lama. Bakal jadi langganan kalau lewat sini lagi.",
+    "reviewDate": "02 Jun 2026"
+  },
+  {
+    "id": "review_17_1",
+    "snackId": "17",
+    "reviewerName": "Iwan Setiadi",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Pang-pangnya manis pas, renyah dan ringan.",
+    "reviewDate": "03 Apr 2026"
+  },
+  {
+    "id": "review_17_2",
+    "snackId": "17",
+    "reviewerName": "Lia Anggraini",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi gampang hancur di kemasan.",
+    "reviewDate": "01 Apr 2026"
+  },
+  {
+    "id": "review_17_3",
+    "snackId": "17",
+    "reviewerName": "Nina Marlina",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Suka camilan pang-pang ini buat anak-anak, manisnya nggak berlebihan.",
+    "reviewDate": "02 Mar 2026"
+  },
+  {
+    "id": "review_17_4",
+    "snackId": "17",
+    "reviewerName": "Ani Susilawati",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Pang-pang ini jajanan jadul yang masih enak sampai sekarang, manis ringan dan teksturnya tetap garing.",
+    "reviewDate": "09 Mar 2026"
+  },
+  {
+    "id": "review_17_5",
+    "snackId": "17",
+    "reviewerName": "Gilang Ramadhan",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Jujur, enak tapi gampang hancur di kemasan.",
+    "reviewDate": "11 Mar 2026"
+  },
+  {
+    "id": "review_17_6",
+    "snackId": "17",
+    "reviewerName": "Wahyu Hidayat",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Menurut saya, pang-pangnya manis pas, renyah dan ringan. Lumayan buat stok di rumah.",
+    "reviewDate": "21 Mar 2026"
+  },
+  {
+    "id": "review_18_1",
+    "snackId": "18",
+    "reviewerName": "Wawan Setiawan",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Opak gulung ini favorit keluarga, tipis garing dan manisnya pas, cocok buat teman teh sore.",
+    "reviewDate": "23 Feb 2026"
+  },
+  {
+    "id": "review_18_2",
+    "snackId": "18",
+    "reviewerName": "Aris Munandar",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka opak gulung ini, gulungannya rapi dan tetap garing.",
+    "reviewDate": "10 Apr 2026"
+  },
+  {
+    "id": "review_18_3",
+    "snackId": "18",
+    "reviewerName": "Dewi Lestari",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Opak gulungnya tipis dan renyah, manisnya pas. Pengiriman juga rapi jadi sampai rumah masih utuh.",
+    "reviewDate": "16 May 2026"
+  },
+  {
+    "id": "review_18_4",
+    "snackId": "18",
+    "reviewerName": "Yulianti",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi beberapa gulungan patah saat pengiriman.",
+    "reviewDate": "17 May 2026"
+  },
+  {
+    "id": "review_18_5",
+    "snackId": "18",
+    "reviewerName": "Edy Susanto",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Opak gulung ini favorit keluarga, tipis garing dan manisnya pas, cocok buat teman teh sore.",
+    "reviewDate": "23 May 2026"
+  },
+  {
+    "id": "review_18_6",
+    "snackId": "18",
+    "reviewerName": "Siti Nurhaliza",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka opak gulung ini, gulungannya rapi dan tetap garing. Bakal jadi langganan kalau lewat sini lagi.",
+    "reviewDate": "07 Jun 2026"
+  },
+  {
+    "id": "review_19_1",
+    "snackId": "19",
+    "reviewerName": "Fajar Nugroho",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Opak contongnya unik bentuknya, tetap renyah dan gurih.",
+    "reviewDate": "21 Apr 2026"
+  },
+  {
+    "id": "review_19_2",
+    "snackId": "19",
+    "reviewerName": "Asep Saepudin",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Opak contong ini jadi pembicaraan pas saya bawa ke acara kumpul, bentuknya unik dan rasanya tetap enak.",
+    "reviewDate": "26 May 2026"
+  },
+  {
+    "id": "review_19_3",
+    "snackId": "19",
+    "reviewerName": "Yoga Pratama",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka opak contong ini, bentuknya beda dari opak biasa. Saya sudah beberapa kali repeat order dan kualitasnya konsisten.",
+    "reviewDate": "05 Apr 2026"
+  },
+  {
+    "id": "review_19_4",
+    "snackId": "19",
+    "reviewerName": "Putri Ayu",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi bentuknya gampang penyok kalau ditumpuk.",
+    "reviewDate": "20 Mar 2026"
+  },
+  {
+    "id": "review_19_5",
+    "snackId": "19",
+    "reviewerName": "Gilang Ramadhan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Menurut saya, opak contongnya unik bentuknya, tetap renyah dan gurih.",
+    "reviewDate": "14 May 2026"
+  },
+  {
+    "id": "review_19_6",
+    "snackId": "19",
+    "reviewerName": "Yulianti",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Opak contong ini jadi pembicaraan pas saya bawa ke acara kumpul, bentuknya unik dan rasanya tetap enak. Saya sudah beberapa kali repeat order dan kualitasnya konsisten.",
+    "reviewDate": "30 May 2026"
+  },
+  {
+    "id": "review_20_1",
+    "snackId": "20",
+    "reviewerName": "Wulan Sari",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Suka kedawung ini buat camilan sehat, gurih natural.",
+    "reviewDate": "20 Jun 2026"
+  },
+  {
+    "id": "review_20_2",
+    "snackId": "20",
+    "reviewerName": "Joko Susilo",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kacang kedawungnya gurih, sangrainya pas nggak gosong.",
+    "reviewDate": "22 May 2026"
+  },
+  {
+    "id": "review_20_3",
+    "snackId": "20",
+    "reviewerName": "Asep Saepudin",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Kacang kedawung ini jarang ditemui di toko lain, rasanya gurih khas dan teksturnya pas, sangrai meratanya bagus.",
+    "reviewDate": "01 Mar 2026"
+  },
+  {
+    "id": "review_20_4",
+    "snackId": "20",
+    "reviewerName": "Novi Aryani",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi rasanya agak unik, butuh waktu buat terbiasa.",
+    "reviewDate": "06 May 2026"
+  },
+  {
+    "id": "review_20_5",
+    "snackId": "20",
+    "reviewerName": "Sigit Purnomo",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka kedawung ini buat camilan sehat, gurih natural.",
+    "reviewDate": "19 May 2026"
+  },
+  {
+    "id": "review_21_1",
+    "snackId": "21",
+    "reviewerName": "Sigit Purnomo",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi agak pahit buat sebagian orang, mungkin perlu varian less pahit.",
+    "reviewDate": "16 Apr 2026"
+  },
+  {
+    "id": "review_21_2",
+    "snackId": "21",
+    "reviewerName": "Yuni Astuti",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Emping belinjonya gurih pahit khas, kualitasnya bagus. Bakal jadi langganan kalau lewat sini lagi.",
+    "reviewDate": "24 May 2026"
+  },
+  {
+    "id": "review_21_3",
+    "snackId": "21",
+    "reviewerName": "Dwi Cahyani",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka emping ini, ketebalannya pas dan tidak terlalu pahit.",
+    "reviewDate": "27 Apr 2026"
+  },
+  {
+    "id": "review_21_4",
+    "snackId": "21",
+    "reviewerName": "Teguh Pribadi",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Emping belinjo ini kualitas super beneran, garing merata dan rasa pahit gurihnya khas banget. Pengiriman juga rapi jadi sampai rumah masih utuh.",
+    "reviewDate": "09 May 2026"
+  },
+  {
+    "id": "review_21_5",
+    "snackId": "21",
+    "reviewerName": "Budi Santoso",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Emping belinjonya gurih pahit khas, kualitasnya bagus.",
+    "reviewDate": "03 Jun 2026"
+  },
+  {
+    "id": "review_22_1",
+    "snackId": "22",
+    "reviewerName": "Yulianti",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi agak berminyak.",
+    "reviewDate": "27 Apr 2026"
+  },
+  {
+    "id": "review_22_2",
+    "snackId": "22",
+    "reviewerName": "Teguh Pribadi",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Sumpianya renyah, isian udangnya kerasa.",
+    "reviewDate": "02 Mar 2026"
+  },
+  {
+    "id": "review_22_3",
+    "snackId": "22",
+    "reviewerName": "Agus Wijaya",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Buat saya, enak tapi agak berminyak.",
+    "reviewDate": "22 Mar 2026"
+  },
+  {
+    "id": "review_22_4",
+    "snackId": "22",
+    "reviewerName": "Imam Syafii",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka sumpia ini, gulungannya rapi dan tetap garing.",
+    "reviewDate": "23 May 2026"
+  },
+  {
+    "id": "review_22_5",
+    "snackId": "22",
+    "reviewerName": "Irfan Maulana",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Sumpia ini jadi camilan andalan saya, gulungan tipisnya renyah dan isian udangnya pas tidak amis.",
+    "reviewDate": "13 Apr 2026"
+  },
+  {
+    "id": "review_22_6",
+    "snackId": "22",
+    "reviewerName": "Yoga Pratama",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Sumpianya renyah, isian udangnya kerasa.",
+    "reviewDate": "23 Apr 2026"
+  },
+  {
+    "id": "review_23_1",
+    "snackId": "23",
+    "reviewerName": "Hari Setiawan",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi harganya lumayan untuk porsi segini.",
+    "reviewDate": "23 May 2026"
+  },
+  {
+    "id": "review_23_2",
+    "snackId": "23",
+    "reviewerName": "Sigit Purnomo",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Sumpia abonnya enak, isian abonnya melimpah.",
+    "reviewDate": "16 Mar 2026"
+  },
+  {
+    "id": "review_23_3",
+    "snackId": "23",
+    "reviewerName": "Nina Marlina",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Sumpia abon ini juara, isiannya banyak dan abonnya berkualitas, beda dari sumpia abon biasa yang isinya tipis.",
+    "reviewDate": "01 Apr 2026"
+  },
+  {
+    "id": "review_23_4",
+    "snackId": "23",
+    "reviewerName": "Heru Setiawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka sumpia abon ini, abon sapinya berasa premium. Saya sudah beberapa kali repeat order dan kualitasnya konsisten.",
+    "reviewDate": "26 May 2026"
+  },
+  {
+    "id": "review_23_5",
+    "snackId": "23",
+    "reviewerName": "Diah Lestari",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Sumpia abonnya enak, isian abonnya melimpah. Worth it kok.",
+    "reviewDate": "29 Apr 2026"
+  },
+  {
+    "id": "review_24_1",
+    "snackId": "24",
+    "reviewerName": "Dedi Kurniadi",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Makaroni kejunya gurih, taburan kejunya melimpah.",
+    "reviewDate": "12 May 2026"
+  },
+  {
+    "id": "review_24_2",
+    "snackId": "24",
+    "reviewerName": "Arif Rahman",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Suka makaroni keju ini, kejunya nempel merata di tiap potongan.",
+    "reviewDate": "05 Mar 2026"
+  },
+  {
+    "id": "review_24_3",
+    "snackId": "24",
+    "reviewerName": "Rahma Wati",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Makaroni keju ini bikin nagih, kejunya banyak dan teksturnya tetap renyah meski sudah lama dibuka.",
+    "reviewDate": "11 Jun 2026"
+  },
+  {
+    "id": "review_24_4",
+    "snackId": "24",
+    "reviewerName": "Nita Rahmawati",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Buat saya, makaroni kejunya gurih, taburan kejunya melimpah.",
+    "reviewDate": "21 Feb 2026"
+  },
+  {
+    "id": "review_24_5",
+    "snackId": "24",
+    "reviewerName": "Anisa Rahmadani",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi agak asin, mungkin porsi keju bisa dikurangi sedikit.",
+    "reviewDate": "04 May 2026"
+  },
+  {
+    "id": "review_25_1",
+    "snackId": "25",
+    "reviewerName": "Hasan Basri",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Makaroni originalnya gurih asin pas, renyah terus.",
+    "reviewDate": "09 Apr 2026"
+  },
+  {
+    "id": "review_25_2",
+    "snackId": "25",
+    "reviewerName": "Wati Suryani",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi kurang variasi rasa untuk yang suka pedas.",
+    "reviewDate": "18 Apr 2026"
+  },
+  {
+    "id": "review_25_3",
+    "snackId": "25",
+    "reviewerName": "Eko Prasetyo",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka makaroni ori ini, simple tapi rasanya pas.",
+    "reviewDate": "16 Jun 2026"
+  },
+  {
+    "id": "review_25_4",
+    "snackId": "25",
+    "reviewerName": "Putri Ayu",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Makaroni original ini jadi favorit karena rasanya nggak neko-neko, gurih asinnya pas dan renyah sampai habis.",
+    "reviewDate": "30 Mar 2026"
+  },
+  {
+    "id": "review_25_5",
+    "snackId": "25",
+    "reviewerName": "Andi Saputra",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Makaroni originalnya gurih asin pas, renyah terus.",
+    "reviewDate": "10 Jun 2026"
+  },
+  {
+    "id": "review_26_1",
+    "snackId": "26",
+    "reviewerName": "Lia Anggraini",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi pedasnya kurang nampol buat saya yang suka pedas banget.",
+    "reviewDate": "01 Mar 2026"
+  },
+  {
+    "id": "review_26_2",
+    "snackId": "26",
+    "reviewerName": "Citra Dewi",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Makaroni rujaknya pedas manis segar, bikin nagih. Bakal jadi langganan kalau lewat sini lagi.",
+    "reviewDate": "18 Jun 2026"
+  },
+  {
+    "id": "review_26_3",
+    "snackId": "26",
+    "reviewerName": "Nita Rahmawati",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Makaroni rujak ini unik banget, perpaduan pedas manisnya pas dan bikin susah berhenti ngemil. Pengiriman juga rapi jadi sampai rumah masih utuh.",
+    "reviewDate": "31 May 2026"
+  },
+  {
+    "id": "review_26_4",
+    "snackId": "26",
+    "reviewerName": "Eko Prasetyo",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka makaroni rujak ini, bumbunya nempel rata di semua potongan.",
+    "reviewDate": "01 Jun 2026"
+  },
+  {
+    "id": "review_26_5",
+    "snackId": "26",
+    "reviewerName": "Ani Susilawati",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Menurut saya, enak tapi pedasnya kurang nampol buat saya yang suka pedas banget. Lumayan buat stok di rumah.",
+    "reviewDate": "11 May 2026"
+  },
+  {
+    "id": "review_26_6",
+    "snackId": "26",
+    "reviewerName": "Siti Nurhaliza",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Makaroni rujaknya pedas manis segar, bikin nagih.",
+    "reviewDate": "15 May 2026"
+  },
+  {
+    "id": "review_27_1",
+    "snackId": "27",
+    "reviewerName": "Hari Setiawan",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi agak keras di beberapa butir.",
+    "reviewDate": "08 May 2026"
+  },
+  {
+    "id": "review_27_2",
+    "snackId": "27",
+    "reviewerName": "Ratna Sari",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka getas ini, ketannya tetap garing meski sudah beberapa hari. Pengiriman juga rapi jadi sampai rumah masih utuh.",
+    "reviewDate": "23 Feb 2026"
+  },
+  {
+    "id": "review_27_3",
+    "snackId": "27",
+    "reviewerName": "Mira Anggraeni",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Getas ketan ini jajanan jadul favorit saya, renyah dan manisnya pas, lapisan gulanya nggak terlalu tebal.",
+    "reviewDate": "03 Mar 2026"
+  },
+  {
+    "id": "review_27_4",
+    "snackId": "27",
+    "reviewerName": "Bambang Hermawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Getasnya renyah, lapisan gulanya tipis dan manis pas. Bakal jadi langganan kalau lewat sini lagi.",
+    "reviewDate": "17 May 2026"
+  },
+  {
+    "id": "review_27_5",
+    "snackId": "27",
+    "reviewerName": "Asep Saepudin",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka getas ini, ketannya tetap garing meski sudah beberapa hari. Saya sudah beberapa kali repeat order dan kualitasnya konsisten.",
+    "reviewDate": "28 May 2026"
+  },
+  {
+    "id": "review_28_1",
+    "snackId": "28",
+    "reviewerName": "Wati Suryani",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Biskuit gem-nya manis dan renyah, warnanya lucu.",
+    "reviewDate": "04 Jun 2026"
+  },
+  {
+    "id": "review_28_2",
+    "snackId": "28",
+    "reviewerName": "Rizki Ramadhan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Biskuit gem ini bikin nostalgia masa kecil, warnanya cerah dan rasanya tetap enak seperti dulu.",
+    "reviewDate": "28 May 2026"
+  },
+  {
+    "id": "review_28_3",
+    "snackId": "28",
+    "reviewerName": "Nina Marlina",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi agak keras untuk anak kecil, perlu hati-hati.",
+    "reviewDate": "01 May 2026"
+  },
+  {
+    "id": "review_28_4",
+    "snackId": "28",
+    "reviewerName": "Diah Lestari",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Suka biskuit gem ini buat anak-anak, manisnya pas.",
+    "reviewDate": "19 Apr 2026"
+  },
+  {
+    "id": "review_28_5",
+    "snackId": "28",
+    "reviewerName": "Erni Susanti",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Buat saya, biskuit gem-nya manis dan renyah, warnanya lucu. Worth it kok.",
+    "reviewDate": "03 Mar 2026"
+  },
+  {
+    "id": "review_29_1",
+    "snackId": "29",
+    "reviewerName": "Dian Safitri",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kue smile-nya renyah, bentuknya lucu bikin senyum beneran.",
+    "reviewDate": "11 May 2026"
+  },
+  {
+    "id": "review_29_2",
+    "snackId": "29",
+    "reviewerName": "Lusi Andriani",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Kue smile ini jadi favorit di rumah, renyah dan rasanya manis ringan, cocok buat teman santai.",
+    "reviewDate": "02 Jun 2026"
+  },
+  {
+    "id": "review_29_3",
+    "snackId": "29",
+    "reviewerName": "Rahma Wati",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka kue smile ini, teksturnya pas tidak terlalu keras.",
+    "reviewDate": "22 Mar 2026"
+  },
+  {
+    "id": "review_29_4",
+    "snackId": "29",
+    "reviewerName": "Imam Syafii",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Kue smile-nya renyah, bentuknya lucu bikin senyum beneran.",
+    "reviewDate": "12 Mar 2026"
+  },
+  {
+    "id": "review_29_5",
+    "snackId": "29",
+    "reviewerName": "Mira Anggraeni",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi rasanya agak hambar buat saya, kurang manis.",
+    "reviewDate": "31 Mar 2026"
+  },
+  {
+    "id": "review_30_1",
+    "snackId": "30",
+    "reviewerName": "Fauzan Akbar",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Enak tapi agak berminyak, mungkin perlu ditiriskan lebih lama.",
+    "reviewDate": "04 Apr 2026"
+  },
+  {
+    "id": "review_30_2",
+    "snackId": "30",
+    "reviewerName": "Fitri Handayani",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka keripik usus ini, nggak amis sama sekali dan kriuknya maksimal. Pengiriman juga rapi jadi sampai rumah masih utuh.",
+    "reviewDate": "05 Jun 2026"
+  },
+  {
+    "id": "review_30_3",
+    "snackId": "30",
+    "reviewerName": "Wawan Setiawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Keripik ususnya gurih banget, bersih dan renyah.",
+    "reviewDate": "28 Mar 2026"
+  },
+  {
+    "id": "review_30_4",
+    "snackId": "30",
+    "reviewerName": "Edy Susanto",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Keripik usus ayam ini favorit keluarga, gurihnya nendang dan teksturnya garing sempurna, pantes jadi best seller. Pengiriman juga rapi jadi sampai rumah masih utuh.",
+    "reviewDate": "07 Jun 2026"
+  },
+  {
+    "id": "review_30_5",
+    "snackId": "30",
+    "reviewerName": "Nina Marlina",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Suka keripik usus ini, nggak amis sama sekali dan kriuknya maksimal.",
+    "reviewDate": "05 May 2026"
+  },
+  {
+    "id": "review_31_1",
+    "snackId": "31",
+    "reviewerName": "Dian Safitri",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka pangsit ini buat teman makan bakso atau soto.",
+    "reviewDate": "11 Jun 2026"
+  },
+  {
+    "id": "review_31_2",
+    "snackId": "31",
+    "reviewerName": "Citra Dewi",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Keripik pangsit ini jadi pelengkap wajib di rumah, renyah dan rasa bawangnya berasa banget. Saya sudah beberapa kali repeat order dan kualitasnya konsisten.",
+    "reviewDate": "11 Jun 2026"
+  },
+  {
+    "id": "review_31_3",
+    "snackId": "31",
+    "reviewerName": "Aris Munandar",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Keripik pangsit bawangnya renyah, gurih pas. Recommended banget buat yang lagi cari oleh-oleh.",
+    "reviewDate": "04 Mar 2026"
+  },
+  {
+    "id": "review_31_4",
+    "snackId": "31",
+    "reviewerName": "Arif Rahman",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka pangsit ini buat teman makan bakso atau soto. Recommended banget buat yang lagi cari oleh-oleh.",
+    "reviewDate": "21 Feb 2026"
+  },
+  {
+    "id": "review_31_5",
+    "snackId": "31",
+    "reviewerName": "Erni Susanti",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Enak tapi gampang remuk kalau ditumpuk di kemasan.",
+    "reviewDate": "10 Mar 2026"
+  },
+  {
+    "id": "review_31_6",
+    "snackId": "31",
+    "reviewerName": "Ahmad Fauzi",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Keripik pangsit ini jadi pelengkap wajib di rumah, renyah dan rasa bawangnya berasa banget. Recommended banget buat yang lagi cari oleh-oleh.",
+    "reviewDate": "11 Jun 2026"
+  },
+  {
+    "id": "review_32_1",
+    "snackId": "32",
+    "reviewerName": "Kartika Putri",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Enak tapi saya pribadi lebih suka beli per varian terpisah.",
+    "reviewDate": "30 Mar 2026"
+  },
+  {
+    "id": "review_32_2",
+    "snackId": "32",
+    "reviewerName": "Wati Suryani",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka koro mix ini karena bisa nyobain berbagai rasa sekaligus.",
+    "reviewDate": "15 Jun 2026"
+  },
+  {
+    "id": "review_32_3",
+    "snackId": "32",
+    "reviewerName": "Ani Susilawati",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Koro mix ini pilihan tepat buat yang nggak bisa milih, semua variannya enak dan renyahnya konsisten.",
+    "reviewDate": "25 Feb 2026"
+  },
+  {
+    "id": "review_32_4",
+    "snackId": "32",
+    "reviewerName": "Rina Marlina",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Koro mix-nya variatif, gurih semua dalam satu kemasan.",
+    "reviewDate": "02 Apr 2026"
+  },
+  {
+    "id": "review_32_5",
+    "snackId": "32",
+    "reviewerName": "Yuni Astuti",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka koro mix ini karena bisa nyobain berbagai rasa sekaligus. Saya sudah beberapa kali repeat order dan kualitasnya konsisten.",
+    "reviewDate": "29 Mar 2026"
+  },
+  {
+    "id": "review_33_1",
+    "snackId": "33",
+    "reviewerName": "Maya Sari",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Suka koro pedas ini, pedasnya berasa tapi nggak bikin sakit perut.",
+    "reviewDate": "30 Apr 2026"
+  },
+  {
+    "id": "review_33_2",
+    "snackId": "33",
+    "reviewerName": "Yulianti",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Koro pedasnya nampol, cocok buat yang suka camilan nendang. Bakal jadi langganan kalau lewat sini lagi.",
+    "reviewDate": "01 Mar 2026"
+  },
+  {
+    "id": "review_33_3",
+    "snackId": "33",
+    "reviewerName": "Citra Dewi",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Koro pedas ini juara buat pecinta pedas, level pedasnya pas dan kacangnya tetap renyah sampai habis.",
+    "reviewDate": "17 Apr 2026"
+  },
+  {
+    "id": "review_33_4",
+    "snackId": "33",
+    "reviewerName": "Imam Syafii",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka koro pedas ini, pedasnya berasa tapi nggak bikin sakit perut. Pengiriman juga rapi jadi sampai rumah masih utuh.",
+    "reviewDate": "06 May 2026"
+  },
+  {
+    "id": "review_33_5",
+    "snackId": "33",
+    "reviewerName": "Sri Wahyuni",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi kepedesan buat saya yang nggak terlalu suka pedas.",
+    "reviewDate": "30 Mar 2026"
+  },
+  {
+    "id": "review_34_1",
+    "snackId": "34",
+    "reviewerName": "Dedi Kurniadi",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi agak terlalu asin buat sebagian orang.",
+    "reviewDate": "17 May 2026"
+  },
+  {
+    "id": "review_34_2",
+    "snackId": "34",
+    "reviewerName": "Ani Susilawati",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka koro asin ini buat camilan netral, nggak eneg. Bakal jadi langganan kalau lewat sini lagi.",
+    "reviewDate": "11 May 2026"
+  },
+  {
+    "id": "review_34_3",
+    "snackId": "34",
+    "reviewerName": "Dewi Lestari",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Koro asinnya gurih original, renyah dan pas asinnya.",
+    "reviewDate": "04 Mar 2026"
+  },
+  {
+    "id": "review_34_4",
+    "snackId": "34",
+    "reviewerName": "Vina Oktaviani",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Koro asin ini simple tapi enak, rasa originalnya bikin cocok dimakan kapan saja tanpa bosan.",
+    "reviewDate": "13 May 2026"
+  },
+  {
+    "id": "review_34_5",
+    "snackId": "34",
+    "reviewerName": "Slamet Riyadi",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka koro asin ini buat camilan netral, nggak eneg.",
+    "reviewDate": "25 Feb 2026"
+  },
+  {
+    "id": "review_34_6",
+    "snackId": "34",
+    "reviewerName": "Budi Santoso",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Koro asinnya gurih original, renyah dan pas asinnya.",
+    "reviewDate": "31 May 2026"
+  },
+  {
+    "id": "review_35_1",
+    "snackId": "35",
+    "reviewerName": "Ani Susilawati",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi kulitnya agak keras buat sebagian orang.",
+    "reviewDate": "08 Jun 2026"
+  },
+  {
+    "id": "review_35_2",
+    "snackId": "35",
+    "reviewerName": "Rahma Wati",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Jujur, enak tapi kulitnya agak keras buat sebagian orang. Worth it kok.",
+    "reviewDate": "02 Jun 2026"
+  },
+  {
+    "id": "review_35_3",
+    "snackId": "35",
+    "reviewerName": "Heru Setiawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka koro kulit ini, teksturnya beda dan lebih krenyes.",
+    "reviewDate": "02 May 2026"
+  },
+  {
+    "id": "review_35_4",
+    "snackId": "35",
+    "reviewerName": "Dwi Cahyani",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Koro kulit ini favorit baru saya, sensasi gurihnya lebih kuat dibanding koro kupas biasa.",
+    "reviewDate": "07 Apr 2026"
+  },
+  {
+    "id": "review_35_5",
+    "snackId": "35",
+    "reviewerName": "Fitri Handayani",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Koro kulitnya lebih gurih karena kulitnya ikut digoreng.",
+    "reviewDate": "03 Mar 2026"
+  },
+  {
+    "id": "review_35_6",
+    "snackId": "35",
+    "reviewerName": "Hadi Kurniawan",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka koro kulit ini, teksturnya beda dan lebih krenyes. Recommended banget buat yang lagi cari oleh-oleh.",
+    "reviewDate": "21 Feb 2026"
+  },
+  {
+    "id": "review_36_1",
+    "snackId": "36",
+    "reviewerName": "Nina Marlina",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka kedelai goreng ini buat camilan rendah dosa. Saya sudah beberapa kali repeat order dan kualitasnya konsisten.",
+    "reviewDate": "04 Mar 2026"
+  },
+  {
+    "id": "review_36_2",
+    "snackId": "36",
+    "reviewerName": "Agus Wijaya",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi agak hambar buat lidah saya yang suka bumbu kuat.",
+    "reviewDate": "22 Mar 2026"
+  },
+  {
+    "id": "review_36_3",
+    "snackId": "36",
+    "reviewerName": "Irfan Maulana",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kacang kedelai ini jadi camilan sehat favorit, gurihnya natural tanpa terlalu banyak bumbu, pas buat diet. Bakal jadi langganan kalau lewat sini lagi.",
+    "reviewDate": "10 Apr 2026"
+  },
+  {
+    "id": "review_36_4",
+    "snackId": "36",
+    "reviewerName": "Mega Puspita",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kacang kedelainya renyah, gurih natural dan sehat.",
+    "reviewDate": "19 Apr 2026"
+  },
+  {
+    "id": "review_36_5",
+    "snackId": "36",
+    "reviewerName": "Yuni Astuti",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Suka kedelai goreng ini buat camilan rendah dosa.",
+    "reviewDate": "16 May 2026"
+  },
+  {
+    "id": "review_37_1",
+    "snackId": "37",
+    "reviewerName": "Joko Susilo",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi gampang patah kalau dibawa bepergian.",
+    "reviewDate": "13 May 2026"
+  },
+  {
+    "id": "review_37_2",
+    "snackId": "37",
+    "reviewerName": "Mira Anggraeni",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Peyek kacang ini hasil gorengnya pas, tipis garing dan kacangnya tetap nempel rapi di setiap keping.",
+    "reviewDate": "12 May 2026"
+  },
+  {
+    "id": "review_37_3",
+    "snackId": "37",
+    "reviewerName": "Putu Wirawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka peyek ini buat teman nasi pecel.",
+    "reviewDate": "07 May 2026"
+  },
+  {
+    "id": "review_37_4",
+    "snackId": "37",
+    "reviewerName": "Citra Dewi",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Peyek kacangnya renyah, tipis dan gurih merata. Saya sudah beberapa kali repeat order dan kualitasnya konsisten.",
+    "reviewDate": "26 Feb 2026"
+  },
+  {
+    "id": "review_37_5",
+    "snackId": "37",
+    "reviewerName": "Rahma Wati",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Peyek kacang ini hasil gorengnya pas, tipis garing dan kacangnya tetap nempel rapi di setiap keping. Worth it kok.",
+    "reviewDate": "31 May 2026"
+  },
+  {
+    "id": "review_37_6",
+    "snackId": "37",
+    "reviewerName": "Linda Permata",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Suka peyek ini buat teman nasi pecel.",
+    "reviewDate": "23 Mar 2026"
+  },
+  {
+    "id": "review_38_1",
+    "snackId": "38",
+    "reviewerName": "Sri Wahyuni",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kacang telur ini jadi favorit pas lebaran, manis gurihnya seimbang dan teksturnya tetap renyah lama.",
+    "reviewDate": "22 Feb 2026"
+  },
+  {
+    "id": "review_38_2",
+    "snackId": "38",
+    "reviewerName": "Siti Nurhaliza",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Suka kacang telur ini, balutan luarnya renyah dan dalamnya tetap gurih.",
+    "reviewDate": "25 Mar 2026"
+  },
+  {
+    "id": "review_38_3",
+    "snackId": "38",
+    "reviewerName": "Slamet Riyadi",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Kacang telurnya manis gurih, lapisan tepungnya pas.",
+    "reviewDate": "26 Feb 2026"
+  },
+  {
+    "id": "review_38_4",
+    "snackId": "38",
+    "reviewerName": "Indah Permatasari",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Jujur, kacang telur ini jadi favorit pas lebaran, manis gurihnya seimbang dan teksturnya tetap renyah lama. Lumayan buat stok di rumah.",
+    "reviewDate": "08 Mar 2026"
+  },
+  {
+    "id": "review_38_5",
+    "snackId": "38",
+    "reviewerName": "Ani Susilawati",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Enak tapi agak manis buat sebagian orang.",
+    "reviewDate": "14 Apr 2026"
+  },
+  {
+    "id": "review_39_1",
+    "snackId": "39",
+    "reviewerName": "Ahmad Fauzi",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kacang mayasinya renyah tanpa digoreng, lebih sehat.",
+    "reviewDate": "02 Apr 2026"
+  },
+  {
+    "id": "review_39_2",
+    "snackId": "39",
+    "reviewerName": "Lusi Andriani",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kacang mayasi ini pilihan camilan sehat, dipanggang bukan digoreng jadi lebih ringan tapi tetap renyah. Bakal jadi langganan kalau lewat sini lagi.",
+    "reviewDate": "28 Feb 2026"
+  },
+  {
+    "id": "review_39_3",
+    "snackId": "39",
+    "reviewerName": "Anisa Rahmadani",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka kacang mayasi ini karena lebih ringan dan nggak berminyak. Bakal jadi langganan kalau lewat sini lagi.",
+    "reviewDate": "27 Mar 2026"
+  },
+  {
+    "id": "review_39_4",
+    "snackId": "39",
+    "reviewerName": "Tutik Handayani",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kacang mayasinya renyah tanpa digoreng, lebih sehat. Pengiriman juga rapi jadi sampai rumah masih utuh.",
+    "reviewDate": "09 Apr 2026"
+  },
+  {
+    "id": "review_39_5",
+    "snackId": "39",
+    "reviewerName": "Agus Wijaya",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi rasanya kurang gurih dibanding kacang goreng biasa.",
+    "reviewDate": "07 May 2026"
+  },
+  {
+    "id": "review_40_1",
+    "snackId": "40",
+    "reviewerName": "Arif Rahman",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kacang sembunyinya manis karamel, unik dan bikin nagih. Recommended banget buat yang lagi cari oleh-oleh.",
+    "reviewDate": "28 Feb 2026"
+  },
+  {
+    "id": "review_40_2",
+    "snackId": "40",
+    "reviewerName": "Erni Susanti",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka kacang sembunyi ini, lapisan karamelnya renyah dan nggak lengket.",
+    "reviewDate": "03 Mar 2026"
+  },
+  {
+    "id": "review_40_3",
+    "snackId": "40",
+    "reviewerName": "Teguh Pribadi",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Kacang sembunyi ini konsepnya unik, kacang di balik karamel renyah, manisnya pas dan jadi favorit anak-anak.",
+    "reviewDate": "06 Jun 2026"
+  },
+  {
+    "id": "review_40_4",
+    "snackId": "40",
+    "reviewerName": "Tutik Handayani",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kacang sembunyinya manis karamel, unik dan bikin nagih. Saya sudah beberapa kali repeat order dan kualitasnya konsisten.",
+    "reviewDate": "03 Mar 2026"
+  },
+  {
+    "id": "review_40_5",
+    "snackId": "40",
+    "reviewerName": "Hasan Basri",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi agak lengket di gigi.",
+    "reviewDate": "16 Apr 2026"
+  },
+  {
+    "id": "review_41_1",
+    "snackId": "41",
+    "reviewerName": "Erni Susanti",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Keripik pisang panjangnya manis alami, renyah terus.",
+    "reviewDate": "05 Apr 2026"
+  },
+  {
+    "id": "review_41_2",
+    "snackId": "41",
+    "reviewerName": "Bayu Aji",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka keripik pisang ini, potongannya panjang dan tetap garing.",
+    "reviewDate": "08 Jun 2026"
+  },
+  {
+    "id": "review_41_3",
+    "snackId": "41",
+    "reviewerName": "Lestari Ningsih",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Keripik pisang panjang ini favorit keluarga, manis alaminya berasa dan teksturnya konsisten renyah.",
+    "reviewDate": "02 May 2026"
+  },
+  {
+    "id": "review_41_4",
+    "snackId": "41",
+    "reviewerName": "Putri Ayu",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Keripik pisang panjangnya manis alami, renyah terus.",
+    "reviewDate": "06 Mar 2026"
+  },
+  {
+    "id": "review_41_5",
+    "snackId": "41",
+    "reviewerName": "Ratna Sari",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Enak tapi agak tebal potongannya buat sebagian orang.",
+    "reviewDate": "04 May 2026"
+  },
+  {
+    "id": "review_42_1",
+    "snackId": "42",
+    "reviewerName": "Fitri Handayani",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Suka pisang bulat ini, lebih tipis dari yang potong panjang.",
+    "reviewDate": "14 Apr 2026"
+  },
+  {
+    "id": "review_42_2",
+    "snackId": "42",
+    "reviewerName": "Hari Setiawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Keripik pisang bulatnya lebih krispi, gurih juga ada.",
+    "reviewDate": "04 Apr 2026"
+  },
+  {
+    "id": "review_42_3",
+    "snackId": "42",
+    "reviewerName": "Teguh Pribadi",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi porsinya kerasa sedikit untuk harganya.",
+    "reviewDate": "12 Mar 2026"
+  },
+  {
+    "id": "review_42_4",
+    "snackId": "42",
+    "reviewerName": "Diah Lestari",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Keripik pisang bulat ini teksturnya lebih krispi dibanding versi panjang, jadi favorit baru di rumah.",
+    "reviewDate": "08 Apr 2026"
+  },
+  {
+    "id": "review_42_5",
+    "snackId": "42",
+    "reviewerName": "Siti Nurhaliza",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Jujur, menurut penilaian saya, produk ini layak dicoba. Suka pisang bulat ini, lebih tipis dari yang potong panjang.",
+    "reviewDate": "23 May 2026"
+  },
+  {
+    "id": "review_43_1",
+    "snackId": "43",
+    "reviewerName": "Maya Sari",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Sale pisangnya manis legit, lembut khas tradisional. Recommended banget buat yang lagi cari oleh-oleh.",
+    "reviewDate": "28 Apr 2026"
+  },
+  {
+    "id": "review_43_2",
+    "snackId": "43",
+    "reviewerName": "Fitri Handayani",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Sale pisang ini mengingatkan masa kecil, manis legitnya pas dan teksturnya tetap lembut tidak keras. Pengiriman juga rapi jadi sampai rumah masih utuh.",
+    "reviewDate": "25 Feb 2026"
+  },
+  {
+    "id": "review_43_3",
+    "snackId": "43",
+    "reviewerName": "Mira Anggraeni",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka sale pisang ini, rasanya autentik seperti buatan rumah.",
+    "reviewDate": "20 Mar 2026"
+  },
+  {
+    "id": "review_43_4",
+    "snackId": "43",
+    "reviewerName": "Lestari Ningsih",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Enak tapi agak lengket di kemasan.",
+    "reviewDate": "07 May 2026"
+  },
+  {
+    "id": "review_43_5",
+    "snackId": "43",
+    "reviewerName": "Wati Suryani",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Sale pisangnya manis legit, lembut khas tradisional.",
+    "reviewDate": "27 Feb 2026"
+  },
+  {
+    "id": "review_44_1",
+    "snackId": "44",
+    "reviewerName": "Rudi Hartono",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Enak tapi agak keras buat sebagian gigitan.",
+    "reviewDate": "04 May 2026"
+  },
+  {
+    "id": "review_44_2",
+    "snackId": "44",
+    "reviewerName": "Nita Rahmawati",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Sale kripik ini inovasi yang bagus, dari sale jadi keripik renyah tapi rasa manis aslinya tetap berasa.",
+    "reviewDate": "15 Apr 2026"
+  },
+  {
+    "id": "review_44_3",
+    "snackId": "44",
+    "reviewerName": "Indah Permatasari",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Sale kripiknya renyah, beda dari sale pisang biasa yang lembek.",
+    "reviewDate": "04 May 2026"
+  },
+  {
+    "id": "review_44_4",
+    "snackId": "44",
+    "reviewerName": "Yulianti",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka sale kripik ini karena teksturnya garing. Recommended banget buat yang lagi cari oleh-oleh.",
+    "reviewDate": "21 May 2026"
+  },
+  {
+    "id": "review_44_5",
+    "snackId": "44",
+    "reviewerName": "Putu Wirawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Sale kripik ini inovasi yang bagus, dari sale jadi keripik renyah tapi rasa manis aslinya tetap berasa. Worth it kok.",
+    "reviewDate": "12 May 2026"
+  },
+  {
+    "id": "review_45_1",
+    "snackId": "45",
+    "reviewerName": "Doni Saputra",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi gampang hancur kalau kemasannya kurang rapat.",
+    "reviewDate": "15 Jun 2026"
+  },
+  {
+    "id": "review_45_2",
+    "snackId": "45",
+    "reviewerName": "Wahyu Hidayat",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka semprit sagu ini, teksturnya lembut dan wangi.",
+    "reviewDate": "30 May 2026"
+  },
+  {
+    "id": "review_45_3",
+    "snackId": "45",
+    "reviewerName": "Rudi Hartono",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Kue semprit sagunya lumer di mulut, manisnya pas.",
+    "reviewDate": "05 Apr 2026"
+  },
+  {
+    "id": "review_45_4",
+    "snackId": "45",
+    "reviewerName": "Hasan Basri",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Semprit sagu ini jadi favorit di acara kumpul keluarga, lumer di mulut dan rasanya nggak bikin enek.",
+    "reviewDate": "24 May 2026"
+  },
+  {
+    "id": "review_45_5",
+    "snackId": "45",
+    "reviewerName": "Maya Sari",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Suka semprit sagu ini, teksturnya lembut dan wangi.",
+    "reviewDate": "04 Jun 2026"
+  },
+  {
+    "id": "review_45_6",
+    "snackId": "45",
+    "reviewerName": "Vina Oktaviani",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi gampang hancur kalau kemasannya kurang rapat. Worth it kok.",
+    "reviewDate": "10 Mar 2026"
+  },
+  {
+    "id": "review_46_1",
+    "snackId": "46",
+    "reviewerName": "Asep Saepudin",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Keripik singkong bawang ini klasik tapi tetap enak, gurihnya pas dan teksturnya garing merata. Pengiriman juga rapi jadi sampai rumah masih utuh.",
+    "reviewDate": "20 Apr 2026"
+  },
+  {
+    "id": "review_46_2",
+    "snackId": "46",
+    "reviewerName": "Iwan Setiadi",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi agak berminyak.",
+    "reviewDate": "18 Apr 2026"
+  },
+  {
+    "id": "review_46_3",
+    "snackId": "46",
+    "reviewerName": "Irfan Maulana",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Keripik singkong bawangnya gurih klasik, renyah terus. Saya sudah beberapa kali repeat order dan kualitasnya konsisten.",
+    "reviewDate": "27 Feb 2026"
+  },
+  {
+    "id": "review_46_4",
+    "snackId": "46",
+    "reviewerName": "Kartika Putri",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka singkong bawang ini, bumbu bawangnya berasa banget. Pengiriman juga rapi jadi sampai rumah masih utuh.",
+    "reviewDate": "06 Jun 2026"
+  },
+  {
+    "id": "review_46_5",
+    "snackId": "46",
+    "reviewerName": "Andi Saputra",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Keripik singkong bawang ini klasik tapi tetap enak, gurihnya pas dan teksturnya garing merata.",
+    "reviewDate": "28 Mar 2026"
+  },
+  {
+    "id": "review_47_1",
+    "snackId": "47",
+    "reviewerName": "Iwan Setiadi",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Suka ketela ungu ini, beda dari keripik singkong biasa.",
+    "reviewDate": "23 Mar 2026"
+  },
+  {
+    "id": "review_47_2",
+    "snackId": "47",
+    "reviewerName": "Dian Safitri",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Keripik ketela ungunya manis alami, warnanya cantik.",
+    "reviewDate": "21 May 2026"
+  },
+  {
+    "id": "review_47_3",
+    "snackId": "47",
+    "reviewerName": "Irfan Maulana",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Keripik ketela ungu ini unik dari warna dan rasanya, manis alaminya berasa dan teksturnya tetap renyah. Recommended banget buat yang lagi cari oleh-oleh.",
+    "reviewDate": "17 Apr 2026"
+  },
+  {
+    "id": "review_47_4",
+    "snackId": "47",
+    "reviewerName": "Nina Marlina",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi rasanya agak hambar buat sebagian orang.",
+    "reviewDate": "28 Apr 2026"
+  },
+  {
+    "id": "review_47_5",
+    "snackId": "47",
+    "reviewerName": "Dwi Cahyani",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka ketela ungu ini, beda dari keripik singkong biasa.",
+    "reviewDate": "27 Apr 2026"
+  },
+  {
+    "id": "review_48_1",
+    "snackId": "48",
+    "reviewerName": "Yuni Astuti",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kembang goyangnya renyah dan cantik bentuknya.",
+    "reviewDate": "08 Mar 2026"
+  },
+  {
+    "id": "review_48_2",
+    "snackId": "48",
+    "reviewerName": "Sinta Dewi",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Kembang goyang ini jajanan tradisional yang masih enak, bentuknya cantik dan renyahnya tahan lama.",
+    "reviewDate": "21 May 2026"
+  },
+  {
+    "id": "review_48_3",
+    "snackId": "48",
+    "reviewerName": "Linda Permata",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka kue kembang goyang ini, teksturnya tipis garing.",
+    "reviewDate": "20 Jun 2026"
+  },
+  {
+    "id": "review_48_4",
+    "snackId": "48",
+    "reviewerName": "Aris Munandar",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Menurut saya, kembang goyangnya renyah dan cantik bentuknya. Lumayan buat stok di rumah.",
+    "reviewDate": "02 Mar 2026"
+  },
+  {
+    "id": "review_48_5",
+    "snackId": "48",
+    "reviewerName": "Ratna Sari",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Enak tapi gampang patah saat dikemas.",
+    "reviewDate": "02 May 2026"
+  },
+  {
+    "id": "review_49_1",
+    "snackId": "49",
+    "reviewerName": "Yoga Pratama",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Kue kecipirnya gurih, bentuknya unik dan rasanya klasik.",
+    "reviewDate": "09 Apr 2026"
+  },
+  {
+    "id": "review_49_2",
+    "snackId": "49",
+    "reviewerName": "Joko Susilo",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Enak tapi agak keras di beberapa bagian.",
+    "reviewDate": "12 Mar 2026"
+  },
+  {
+    "id": "review_49_3",
+    "snackId": "49",
+    "reviewerName": "Teguh Pribadi",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka kecipir ini, teksturnya pas tidak terlalu keras.",
+    "reviewDate": "15 Mar 2026"
+  },
+  {
+    "id": "review_49_4",
+    "snackId": "49",
+    "reviewerName": "Wati Suryani",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kue kecipir ini jarang ditemui di tempat lain, bentuknya unik dan rasa gurihnya khas banget.",
+    "reviewDate": "06 Jun 2026"
+  },
+  {
+    "id": "review_49_5",
+    "snackId": "49",
+    "reviewerName": "Dian Safitri",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kue kecipirnya gurih, bentuknya unik dan rasanya klasik.",
+    "reviewDate": "19 May 2026"
+  },
+  {
+    "id": "review_49_6",
+    "snackId": "49",
+    "reviewerName": "Mega Puspita",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Buat saya, suka kecipir ini, teksturnya pas tidak terlalu keras. Worth it kok.",
+    "reviewDate": "29 May 2026"
+  },
+  {
+    "id": "review_50_1",
+    "snackId": "50",
+    "reviewerName": "Arif Rahman",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Keripik tempe putihnya renyah banget, rasa originalnya pas.",
+    "reviewDate": "09 Mar 2026"
+  },
+  {
+    "id": "review_50_2",
+    "snackId": "50",
+    "reviewerName": "Putu Wirawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Keripik tempe putih ini favorit saya, renyahnya konsisten dan rasa kedelainya tetap kerasa.",
+    "reviewDate": "11 Jun 2026"
+  },
+  {
+    "id": "review_50_3",
+    "snackId": "50",
+    "reviewerName": "Citra Dewi",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi agak berminyak di kemasan.",
+    "reviewDate": "24 Mar 2026"
+  },
+  {
+    "id": "review_50_4",
+    "snackId": "50",
+    "reviewerName": "Hari Setiawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka tempe putih ini, tipis dan garing merata. Saya sudah beberapa kali repeat order dan kualitasnya konsisten.",
+    "reviewDate": "13 May 2026"
+  },
+  {
+    "id": "review_50_5",
+    "snackId": "50",
+    "reviewerName": "Nina Marlina",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Keripik tempe putihnya renyah banget, rasa originalnya pas.",
+    "reviewDate": "22 Apr 2026"
+  },
+  {
+    "id": "review_51_1",
+    "snackId": "51",
+    "reviewerName": "Fauzan Akbar",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi harganya sedikit lebih mahal dari merk lain.",
+    "reviewDate": "02 Mar 2026"
+  },
+  {
+    "id": "review_51_2",
+    "snackId": "51",
+    "reviewerName": "Sri Wahyuni",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Tempe 2 Putri ini kualitasnya terjamin, renyah terus.",
+    "reviewDate": "08 Apr 2026"
+  },
+  {
+    "id": "review_51_3",
+    "snackId": "51",
+    "reviewerName": "Rudi Hartono",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Keripik tempe 2 Putri ini memang beda kelasnya, renyahnya tahan lama dan rasanya konsisten setiap beli.",
+    "reviewDate": "20 Mar 2026"
+  },
+  {
+    "id": "review_51_4",
+    "snackId": "51",
+    "reviewerName": "Rizki Ramadhan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka merk tempe ini, sudah jadi langganan keluarga. Saya sudah beberapa kali repeat order dan kualitasnya konsisten.",
+    "reviewDate": "01 Apr 2026"
+  },
+  {
+    "id": "review_51_5",
+    "snackId": "51",
+    "reviewerName": "Mega Puspita",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Jujur, tempe 2 Putri ini kualitasnya terjamin, renyah terus.",
+    "reviewDate": "19 Jun 2026"
+  },
+  {
+    "id": "review_52_1",
+    "snackId": "52",
+    "reviewerName": "Nina Marlina",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Keripik tempe kuning ini bumbu kunyitnya berasa banget, gurihnya beda dari tempe putih biasa.",
+    "reviewDate": "26 Feb 2026"
+  },
+  {
+    "id": "review_52_2",
+    "snackId": "52",
+    "reviewerName": "Iwan Setiadi",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Tempe kuningnya gurih dengan aroma kunyit yang sedap.",
+    "reviewDate": "14 Apr 2026"
+  },
+  {
+    "id": "review_52_3",
+    "snackId": "52",
+    "reviewerName": "Siti Nurhaliza",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Enak tapi warnanya kurang merata di beberapa keping.",
+    "reviewDate": "01 Jun 2026"
+  },
+  {
+    "id": "review_52_4",
+    "snackId": "52",
+    "reviewerName": "Maya Sari",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka tempe kuning ini, bumbunya meresap sampai dalam. Recommended banget buat yang lagi cari oleh-oleh.",
+    "reviewDate": "28 Feb 2026"
+  },
+  {
+    "id": "review_52_5",
+    "snackId": "52",
+    "reviewerName": "Dewi Lestari",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Jujur, keripik tempe kuning ini bumbu kunyitnya berasa banget, gurihnya beda dari tempe putih biasa. Lumayan buat stok di rumah.",
+    "reviewDate": "06 Mar 2026"
+  },
+  {
+    "id": "review_53_1",
+    "snackId": "53",
+    "reviewerName": "Citra Dewi",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Kacang kedelai ini jadi camilan sehat favorit, gurihnya natural tanpa terlalu banyak bumbu, pas buat diet.",
+    "reviewDate": "05 Apr 2026"
+  },
+  {
+    "id": "review_53_2",
+    "snackId": "53",
+    "reviewerName": "Wawan Setiawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kacang kedelainya renyah, gurih natural dan sehat. Bakal jadi langganan kalau lewat sini lagi.",
+    "reviewDate": "24 May 2026"
+  },
+  {
+    "id": "review_53_3",
+    "snackId": "53",
+    "reviewerName": "Yoga Pratama",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi agak hambar buat lidah saya yang suka bumbu kuat.",
+    "reviewDate": "15 May 2026"
+  },
+  {
+    "id": "review_53_4",
+    "snackId": "53",
+    "reviewerName": "Maya Sari",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka kedelai goreng ini buat camilan rendah dosa.",
+    "reviewDate": "11 May 2026"
+  },
+  {
+    "id": "review_53_5",
+    "snackId": "53",
+    "reviewerName": "Rahma Wati",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Kacang kedelai ini jadi camilan sehat favorit, gurihnya natural tanpa terlalu banyak bumbu, pas buat diet. Saya sudah beberapa kali repeat order dan kualitasnya konsisten.",
+    "reviewDate": "29 May 2026"
+  },
+  {
+    "id": "review_53_6",
+    "snackId": "53",
+    "reviewerName": "Yuni Astuti",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kacang kedelainya renyah, gurih natural dan sehat.",
+    "reviewDate": "05 May 2026"
+  },
+  {
+    "id": "review_54_1",
+    "snackId": "54",
+    "reviewerName": "Fajar Nugroho",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Kue kuping gajahnya renyah, motifnya lucu-lucu.",
+    "reviewDate": "24 Feb 2026"
+  },
+  {
+    "id": "review_54_2",
+    "snackId": "54",
+    "reviewerName": "Yuni Astuti",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kue kuping gajah ini jajanan jadul yang masih juara, renyah dan variasi motifnya bikin nggak bosan.",
+    "reviewDate": "27 May 2026"
+  },
+  {
+    "id": "review_54_3",
+    "snackId": "54",
+    "reviewerName": "Tutik Handayani",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Suka kupingan ini buat camilan santai, manisnya pas.",
+    "reviewDate": "16 Mar 2026"
+  },
+  {
+    "id": "review_54_4",
+    "snackId": "54",
+    "reviewerName": "Rina Marlina",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi agak keras di bagian tengah.",
+    "reviewDate": "28 Mar 2026"
+  },
+  {
+    "id": "review_54_5",
+    "snackId": "54",
+    "reviewerName": "Dedi Kurniadi",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Kue kuping gajahnya renyah, motifnya lucu-lucu.",
+    "reviewDate": "06 Apr 2026"
+  },
+  {
+    "id": "review_55_1",
+    "snackId": "55",
+    "reviewerName": "Aris Munandar",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka sus kering ori ini, ringan dan nggak terlalu manis.",
+    "reviewDate": "02 Apr 2026"
+  },
+  {
+    "id": "review_55_2",
+    "snackId": "55",
+    "reviewerName": "Teguh Pribadi",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kue sus keringnya kopong sempurna, renyah pas digigit.",
+    "reviewDate": "05 Mar 2026"
+  },
+  {
+    "id": "review_55_3",
+    "snackId": "55",
+    "reviewerName": "Yoga Pratama",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Kue sus kering ini teksturnya pas, kopong di dalam dan renyah di luar, cocok buat teman teh. Saya sudah beberapa kali repeat order dan kualitasnya konsisten.",
+    "reviewDate": "02 Apr 2026"
+  },
+  {
+    "id": "review_55_4",
+    "snackId": "55",
+    "reviewerName": "Imam Syafii",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi gampang hancur kalau ditekan.",
+    "reviewDate": "15 May 2026"
+  },
+  {
+    "id": "review_55_5",
+    "snackId": "55",
+    "reviewerName": "Sigit Purnomo",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka sus kering ori ini, ringan dan nggak terlalu manis. Pengiriman juga rapi jadi sampai rumah masih utuh.",
+    "reviewDate": "31 Mar 2026"
+  },
+  {
+    "id": "review_56_1",
+    "snackId": "56",
+    "reviewerName": "Eko Prasetyo",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Sus coklatnya lumer di dalam, luarnya tetap renyah.",
+    "reviewDate": "24 Feb 2026"
+  },
+  {
+    "id": "review_56_2",
+    "snackId": "56",
+    "reviewerName": "Hasan Basri",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi isian coklatnya kadang nggak merata di tiap kue.",
+    "reviewDate": "08 May 2026"
+  },
+  {
+    "id": "review_56_3",
+    "snackId": "56",
+    "reviewerName": "Rahma Wati",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka sus coklat ini, perpaduan renyah dan lumer pas banget.",
+    "reviewDate": "11 Mar 2026"
+  },
+  {
+    "id": "review_56_4",
+    "snackId": "56",
+    "reviewerName": "Fauzan Akbar",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Kue sus coklat ini favorit semua orang di rumah, isian coklatnya melimpah dan teksturnya pas, pantes jadi best seller.",
+    "reviewDate": "18 Apr 2026"
+  },
+  {
+    "id": "review_56_5",
+    "snackId": "56",
+    "reviewerName": "Lia Anggraini",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Sus coklatnya lumer di dalam, luarnya tetap renyah.",
+    "reviewDate": "08 Apr 2026"
+  },
+  {
+    "id": "review_56_6",
+    "snackId": "56",
+    "reviewerName": "Agus Wijaya",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Suka sus coklat ini, perpaduan renyah dan lumer pas banget.",
+    "reviewDate": "17 Apr 2026"
+  },
+  {
+    "id": "review_57_1",
+    "snackId": "57",
+    "reviewerName": "Yoga Pratama",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Seblak kencurnya wangi banget, gurih dan renyah.",
+    "reviewDate": "09 Mar 2026"
+  },
+  {
+    "id": "review_57_2",
+    "snackId": "57",
+    "reviewerName": "Imam Syafii",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi rasanya agak terlalu kuat kencurnya buat sebagian orang.",
+    "reviewDate": "09 Jun 2026"
+  },
+  {
+    "id": "review_57_3",
+    "snackId": "57",
+    "reviewerName": "Lusi Andriani",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka seblak kering ini, aroma kencurnya kerasa kuat. Saya sudah beberapa kali repeat order dan kualitasnya konsisten.",
+    "reviewDate": "18 Apr 2026"
+  },
+  {
+    "id": "review_57_4",
+    "snackId": "57",
+    "reviewerName": "Aris Munandar",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Seblak kencur kering ini beda dari seblak basah, tetap garing dan aroma kencurnya bikin nagih.",
+    "reviewDate": "15 Jun 2026"
+  },
+  {
+    "id": "review_57_5",
+    "snackId": "57",
+    "reviewerName": "Bambang Hermawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Buat saya, seblak kencurnya wangi banget, gurih dan renyah. Worth it kok.",
+    "reviewDate": "22 May 2026"
+  },
+  {
+    "id": "review_58_1",
+    "snackId": "58",
+    "reviewerName": "Rahma Wati",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Suka seblak mawar ini, pedasnya nampol tapi nggak berlebihan.",
+    "reviewDate": "31 Mar 2026"
+  },
+  {
+    "id": "review_58_2",
+    "snackId": "58",
+    "reviewerName": "Fauzan Akbar",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Seblak mawarnya pedas gurih, bentuknya cantik kayak bunga. Recommended banget buat yang lagi cari oleh-oleh.",
+    "reviewDate": "22 May 2026"
+  },
+  {
+    "id": "review_58_3",
+    "snackId": "58",
+    "reviewerName": "Mega Puspita",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Seblak mawar kering ini unik bentuknya, pedas gurihnya seimbang dan tetap renyah sampai habis.",
+    "reviewDate": "23 May 2026"
+  },
+  {
+    "id": "review_58_4",
+    "snackId": "58",
+    "reviewerName": "Bambang Hermawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka seblak mawar ini, pedasnya nampol tapi nggak berlebihan.",
+    "reviewDate": "22 Apr 2026"
+  },
+  {
+    "id": "review_58_5",
+    "snackId": "58",
+    "reviewerName": "Tono Setiawan",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi kepedesan buat saya yang kurang suka pedas.",
+    "reviewDate": "28 Apr 2026"
+  },
+  {
+    "id": "review_58_6",
+    "snackId": "58",
+    "reviewerName": "Fajar Nugroho",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Menurut saya, seblak mawarnya pedas gurih, bentuknya cantik kayak bunga. Recommended banget buat yang lagi cari oleh-oleh.",
+    "reviewDate": "29 May 2026"
+  },
+  {
+    "id": "review_59_1",
+    "snackId": "59",
+    "reviewerName": "Indah Permatasari",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Basreng stiknya pedas daun jeruk, gurih dan renyah.",
+    "reviewDate": "17 Mar 2026"
+  },
+  {
+    "id": "review_59_2",
+    "snackId": "59",
+    "reviewerName": "Rudi Hartono",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Enak tapi agak berminyak setelah dibuka beberapa hari.",
+    "reviewDate": "01 May 2026"
+  },
+  {
+    "id": "review_59_3",
+    "snackId": "59",
+    "reviewerName": "Dwi Cahyani",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Suka basreng stik ini, potongan stiknya pas buat ngemil.",
+    "reviewDate": "08 Mar 2026"
+  },
+  {
+    "id": "review_59_4",
+    "snackId": "59",
+    "reviewerName": "Hendra Gunawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Basreng stik ini favorit pas kerja, pedas daun jeruknya bikin segar dan teksturnya tetap kriuk, pantes best seller.",
+    "reviewDate": "11 May 2026"
+  },
+  {
+    "id": "review_59_5",
+    "snackId": "59",
+    "reviewerName": "Bambang Hermawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Basreng stiknya pedas daun jeruk, gurih dan renyah.",
+    "reviewDate": "09 May 2026"
+  },
+  {
+    "id": "review_59_6",
+    "snackId": "59",
+    "reviewerName": "Andi Saputra",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka basreng stik ini, potongan stiknya pas buat ngemil.",
+    "reviewDate": "29 Apr 2026"
+  },
+  {
+    "id": "review_60_1",
+    "snackId": "60",
+    "reviewerName": "Agus Wijaya",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi pedasnya kurang nampol buat saya.",
+    "reviewDate": "30 Mar 2026"
+  },
+  {
+    "id": "review_60_2",
+    "snackId": "60",
+    "reviewerName": "Maya Sari",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Basreng bulat ini teksturnya beda dari yang stik, lebih kriuk di luar dan tetap kenyal sedikit di dalam.",
+    "reviewDate": "19 Apr 2026"
+  },
+  {
+    "id": "review_60_3",
+    "snackId": "60",
+    "reviewerName": "Ahmad Fauzi",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Basreng bulatnya renyah di luar, gurih sampai dalam. Saya sudah beberapa kali repeat order dan kualitasnya konsisten.",
+    "reviewDate": "19 May 2026"
+  },
+  {
+    "id": "review_60_4",
+    "snackId": "60",
+    "reviewerName": "Gilang Ramadhan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka basreng bulat ini, bentuknya pas buat sekali suap.",
+    "reviewDate": "27 Feb 2026"
+  },
+  {
+    "id": "review_60_5",
+    "snackId": "60",
+    "reviewerName": "Ika Wulandari",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Menurut saya, basreng bulat ini teksturnya beda dari yang stik, lebih kriuk di luar dan tetap kenyal sedikit di dalam.",
+    "reviewDate": "12 Mar 2026"
+  },
+  {
+    "id": "review_61_1",
+    "snackId": "61",
+    "reviewerName": "Hasan Basri",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Suka jagung gepeng ini buat camilan netral.",
+    "reviewDate": "10 Jun 2026"
+  },
+  {
+    "id": "review_61_2",
+    "snackId": "61",
+    "reviewerName": "Indah Permatasari",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi agak terlalu asin buat saya.",
+    "reviewDate": "09 May 2026"
+  },
+  {
+    "id": "review_61_3",
+    "snackId": "61",
+    "reviewerName": "Sigit Purnomo",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Jagung cemet asin ini simple tapi bikin nagih, gurihnya pas dan teksturnya tetap kriuk sampai habis.",
+    "reviewDate": "14 Apr 2026"
+  },
+  {
+    "id": "review_61_4",
+    "snackId": "61",
+    "reviewerName": "Fauzan Akbar",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Jujur, enak tapi agak terlalu asin buat saya.",
+    "reviewDate": "23 Mar 2026"
+  },
+  {
+    "id": "review_61_5",
+    "snackId": "61",
+    "reviewerName": "Doni Saputra",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Jagung cemet asinnya gurih pas, renyah dan ringan. Bakal jadi langganan kalau lewat sini lagi.",
+    "reviewDate": "04 Jun 2026"
+  },
+  {
+    "id": "review_61_6",
+    "snackId": "61",
+    "reviewerName": "Kartika Putri",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Menurut saya, menurut penilaian saya, produk ini layak dicoba. Suka jagung gepeng ini buat camilan netral.",
+    "reviewDate": "19 Jun 2026"
+  },
+  {
+    "id": "review_62_1",
+    "snackId": "62",
+    "reviewerName": "Rizki Ramadhan",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Enak tapi pedasnya kurang nendang buat pecinta pedas.",
+    "reviewDate": "16 Apr 2026"
+  },
+  {
+    "id": "review_62_2",
+    "snackId": "62",
+    "reviewerName": "Vina Oktaviani",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Jagung cemet pedasnya manis pedas, kombinasi yang pas.",
+    "reviewDate": "09 Mar 2026"
+  },
+  {
+    "id": "review_62_3",
+    "snackId": "62",
+    "reviewerName": "Dwi Cahyani",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Jagung cemet pedas ini favorit baru saya, perpaduan manis pedasnya bikin susah berhenti ngemil.",
+    "reviewDate": "12 Jun 2026"
+  },
+  {
+    "id": "review_62_4",
+    "snackId": "62",
+    "reviewerName": "Tutik Handayani",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka jagung cemet pedas ini, pedas manisnya seimbang.",
+    "reviewDate": "25 Mar 2026"
+  },
+  {
+    "id": "review_62_5",
+    "snackId": "62",
+    "reviewerName": "Citra Dewi",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Menurut saya, jagung cemet pedasnya manis pedas, kombinasi yang pas.",
+    "reviewDate": "24 May 2026"
+  },
+  {
+    "id": "review_63_1",
+    "snackId": "63",
+    "reviewerName": "Eko Prasetyo",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Stik baladonya melimpah bumbunya, pedas manis pas.",
+    "reviewDate": "08 May 2026"
+  },
+  {
+    "id": "review_63_2",
+    "snackId": "63",
+    "reviewerName": "Aris Munandar",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Stik balado ini bumbunya nempel banyak, pedas manisnya pas dan teksturnya tetap renyah meski bumbu tebal.",
+    "reviewDate": "12 Apr 2026"
+  },
+  {
+    "id": "review_63_3",
+    "snackId": "63",
+    "reviewerName": "Dwi Cahyani",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka stik balado ini, warnanya merah merata di tiap stik.",
+    "reviewDate": "25 Apr 2026"
+  },
+  {
+    "id": "review_63_4",
+    "snackId": "63",
+    "reviewerName": "Iwan Setiadi",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Stik baladonya melimpah bumbunya, pedas manis pas. Saya sudah beberapa kali repeat order dan kualitasnya konsisten.",
+    "reviewDate": "25 Feb 2026"
+  },
+  {
+    "id": "review_63_5",
+    "snackId": "63",
+    "reviewerName": "Slamet Riyadi",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi bumbunya agak berantakan di dasar kemasan.",
+    "reviewDate": "24 Feb 2026"
+  },
+  {
+    "id": "review_64_1",
+    "snackId": "64",
+    "reviewerName": "Lia Anggraini",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Twist corn ini favorit anak-anak, bentuk twistnya lucu dan rasa jagung bakarnya autentik. Saya sudah beberapa kali repeat order dan kualitasnya konsisten.",
+    "reviewDate": "07 May 2026"
+  },
+  {
+    "id": "review_64_2",
+    "snackId": "64",
+    "reviewerName": "Vina Oktaviani",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Twist corn-nya unik bentuknya, rasa jagung bakarnya berasa.",
+    "reviewDate": "21 Apr 2026"
+  },
+  {
+    "id": "review_64_3",
+    "snackId": "64",
+    "reviewerName": "Anisa Rahmadani",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka twist corn ini, teksturnya ringan dan renyah. Pengiriman juga rapi jadi sampai rumah masih utuh.",
+    "reviewDate": "14 May 2026"
+  },
+  {
+    "id": "review_64_4",
+    "snackId": "64",
+    "reviewerName": "Teguh Pribadi",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Twist corn ini favorit anak-anak, bentuk twistnya lucu dan rasa jagung bakarnya autentik.",
+    "reviewDate": "31 May 2026"
+  },
+  {
+    "id": "review_64_5",
+    "snackId": "64",
+    "reviewerName": "Dwi Cahyani",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi rasanya agak tipis buat saya yang suka bumbu kuat.",
+    "reviewDate": "30 May 2026"
+  },
+  {
+    "id": "review_65_1",
+    "snackId": "65",
+    "reviewerName": "Rina Marlina",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Choco crunch-nya renyah, coklatnya berasa di tiap gigitan.",
+    "reviewDate": "21 May 2026"
+  },
+  {
+    "id": "review_65_2",
+    "snackId": "65",
+    "reviewerName": "Wulan Sari",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Choco crunch ini enak dimakan langsung atau dicampur susu, renyahnya tahan lama dan coklatnya nggak terlalu manis. Bakal jadi langganan kalau lewat sini lagi.",
+    "reviewDate": "27 Apr 2026"
+  },
+  {
+    "id": "review_65_3",
+    "snackId": "65",
+    "reviewerName": "Dian Safitri",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Suka sereal coklat ini buat camilan atau campuran susu.",
+    "reviewDate": "02 May 2026"
+  },
+  {
+    "id": "review_65_4",
+    "snackId": "65",
+    "reviewerName": "Dewi Lestari",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Choco crunch-nya renyah, coklatnya berasa di tiap gigitan. Pengiriman juga rapi jadi sampai rumah masih utuh.",
+    "reviewDate": "15 May 2026"
+  },
+  {
+    "id": "review_65_5",
+    "snackId": "65",
+    "reviewerName": "Mira Anggraeni",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Enak tapi cepat melempem kalau kemasan sering dibuka tutup.",
+    "reviewDate": "28 Apr 2026"
+  },
+  {
+    "id": "review_66_1",
+    "snackId": "66",
+    "reviewerName": "Dian Safitri",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Wijennya kerasa banget, manisnya pas, gak bikin enek.",
+    "reviewDate": "04 May 2026"
+  },
+  {
+    "id": "review_66_2",
+    "snackId": "66",
+    "reviewerName": "Wahyu Hidayat",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Keciput panjang wijen ini produk andalan yang memang juara, renyah dan wijennya melimpah.",
+    "reviewDate": "30 Apr 2026"
+  },
+  {
+    "id": "review_66_3",
+    "snackId": "66",
+    "reviewerName": "Slamet Riyadi",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Sudah langganan keciput wijen ini buat oleh-oleh, manis legitnya pas dan wijennya nempel banyak di tiap potongan. Recommended banget buat yang lagi cari oleh-oleh.",
+    "reviewDate": "14 Jun 2026"
+  },
+  {
+    "id": "review_66_4",
+    "snackId": "66",
+    "reviewerName": "Anisa Rahmadani",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi agak lengket di tangan saat dimakan.",
+    "reviewDate": "11 Apr 2026"
+  },
+  {
+    "id": "review_66_5",
+    "snackId": "66",
+    "reviewerName": "Mega Puspita",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Wijennya kerasa banget, manisnya pas, gak bikin enek. Pengiriman juga rapi jadi sampai rumah masih utuh.",
+    "reviewDate": "29 May 2026"
+  },
+  {
+    "id": "review_66_6",
+    "snackId": "66",
+    "reviewerName": "Lusi Andriani",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Buat saya, enak tapi agak lengket di tangan saat dimakan.",
+    "reviewDate": "02 Jun 2026"
+  },
+  {
+    "id": "review_67_1",
+    "snackId": "67",
+    "reviewerName": "Putu Wirawan",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Kue akar kelapa ori ini jadi favorit oleh-oleh, manisnya pas dan teksturnya tetap renyah meski disimpan lama.",
+    "reviewDate": "18 May 2026"
+  },
+  {
+    "id": "review_67_2",
+    "snackId": "67",
+    "reviewerName": "Fitri Handayani",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi bentuknya agak kurang rapi di beberapa potong.",
+    "reviewDate": "29 May 2026"
+  },
+  {
+    "id": "review_67_3",
+    "snackId": "67",
+    "reviewerName": "Fajar Nugroho",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Suka akar kelapa ori ini, rasanya autentik seperti buatan rumahan.",
+    "reviewDate": "20 Feb 2026"
+  },
+  {
+    "id": "review_67_4",
+    "snackId": "67",
+    "reviewerName": "Doni Saputra",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Akar kelapanya manis original, renyah dan klasik.",
+    "reviewDate": "18 Jun 2026"
+  },
+  {
+    "id": "review_67_5",
+    "snackId": "67",
+    "reviewerName": "Citra Dewi",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kue akar kelapa ori ini jadi favorit oleh-oleh, manisnya pas dan teksturnya tetap renyah meski disimpan lama.",
+    "reviewDate": "12 Mar 2026"
+  },
+  {
+    "id": "review_68_1",
+    "snackId": "68",
+    "reviewerName": "Putu Wirawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Stik bawang ini favorit untuk camilan sehari-hari, gurihnya alami dan teksturnya garing sampai potongan terakhir. Recommended banget buat yang lagi cari oleh-oleh.",
+    "reviewDate": "13 May 2026"
+  },
+  {
+    "id": "review_68_2",
+    "snackId": "68",
+    "reviewerName": "Rina Marlina",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Stik bawangnya gurih banget, beneran buatan rumahan tanpa pengawet. Recommended banget buat yang lagi cari oleh-oleh.",
+    "reviewDate": "13 Jun 2026"
+  },
+  {
+    "id": "review_68_3",
+    "snackId": "68",
+    "reviewerName": "Nita Rahmawati",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Enak tapi agak cepat habis karena adiktif.",
+    "reviewDate": "08 Jun 2026"
+  },
+  {
+    "id": "review_68_4",
+    "snackId": "68",
+    "reviewerName": "Wawan Setiawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka stik bawang ini, renyah dan aroma bawangnya kuat.",
+    "reviewDate": "25 Apr 2026"
+  },
+  {
+    "id": "review_68_5",
+    "snackId": "68",
+    "reviewerName": "Heru Setiawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Stik bawang ini favorit untuk camilan sehari-hari, gurihnya alami dan teksturnya garing sampai potongan terakhir.",
+    "reviewDate": "20 Apr 2026"
+  },
+  {
+    "id": "review_68_6",
+    "snackId": "68",
+    "reviewerName": "Ani Susilawati",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Stik bawangnya gurih banget, beneran buatan rumahan tanpa pengawet.",
+    "reviewDate": "26 Mar 2026"
+  },
+  {
+    "id": "review_69_1",
+    "snackId": "69",
+    "reviewerName": "Dedi Kurniadi",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Stik keju ini favorit keluarga, rasa kejunya kuat dan teksturnya renyah merata, pantes jadi best seller.",
+    "reviewDate": "20 Feb 2026"
+  },
+  {
+    "id": "review_69_2",
+    "snackId": "69",
+    "reviewerName": "Dian Safitri",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi harganya sedikit lebih mahal dibanding stik biasa.",
+    "reviewDate": "25 Mar 2026"
+  },
+  {
+    "id": "review_69_3",
+    "snackId": "69",
+    "reviewerName": "Nita Rahmawati",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka stik keju ini, lebih gurih dari stik keju merk lain. Recommended banget buat yang lagi cari oleh-oleh.",
+    "reviewDate": "22 Mar 2026"
+  },
+  {
+    "id": "review_69_4",
+    "snackId": "69",
+    "reviewerName": "Hasan Basri",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Stik kejunya premium, rasa kejunya kuat dan berasa banget.",
+    "reviewDate": "18 Apr 2026"
+  },
+  {
+    "id": "review_69_5",
+    "snackId": "69",
+    "reviewerName": "Lestari Ningsih",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Stik keju ini favorit keluarga, rasa kejunya kuat dan teksturnya renyah merata, pantes jadi best seller.",
+    "reviewDate": "03 Apr 2026"
+  },
+  {
+    "id": "review_70_1",
+    "snackId": "70",
+    "reviewerName": "Asep Saepudin",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi agak pedas buat sebagian orang.",
+    "reviewDate": "19 Apr 2026"
+  },
+  {
+    "id": "review_70_2",
+    "snackId": "70",
+    "reviewerName": "Hari Setiawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka tahu walik ini, teksturnya kriuk di luar empuk di dalam.",
+    "reviewDate": "26 May 2026"
+  },
+  {
+    "id": "review_70_3",
+    "snackId": "70",
+    "reviewerName": "Lia Anggraini",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Tahu walik ini favorit baru saya, bumbu rahasianya bikin penasaran dan teksturnya pas, kriuk tapi tetap lembut.",
+    "reviewDate": "08 May 2026"
+  },
+  {
+    "id": "review_70_4",
+    "snackId": "70",
+    "reviewerName": "Hasan Basri",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Tahu waliknya krispi, bumbu rahasianya berasa banget.",
+    "reviewDate": "08 Apr 2026"
+  },
+  {
+    "id": "review_70_5",
+    "snackId": "70",
+    "reviewerName": "Dwi Cahyani",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Suka tahu walik ini, teksturnya kriuk di luar empuk di dalam.",
+    "reviewDate": "20 May 2026"
+  },
+  {
+    "id": "review_71_1",
+    "snackId": "71",
+    "reviewerName": "Hendra Gunawan",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Tahu bulat mini ini cocok buat anak-anak, garing di luar dan lembut di dalam, ukurannya juga pas tidak terlalu besar. Recommended banget buat yang lagi cari oleh-oleh.",
+    "reviewDate": "03 May 2026"
+  },
+  {
+    "id": "review_71_2",
+    "snackId": "71",
+    "reviewerName": "Dwi Cahyani",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi agak berminyak setelah beberapa jam.",
+    "reviewDate": "27 Feb 2026"
+  },
+  {
+    "id": "review_71_3",
+    "snackId": "71",
+    "reviewerName": "Tono Setiawan",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Suka tahu bulat mini ini, ukurannya pas buat sekali gigit.",
+    "reviewDate": "20 Apr 2026"
+  },
+  {
+    "id": "review_71_4",
+    "snackId": "71",
+    "reviewerName": "Andi Saputra",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Tahu bulat mininya garing, pas buat camilan ringan. Pengiriman juga rapi jadi sampai rumah masih utuh.",
+    "reviewDate": "23 May 2026"
+  },
+  {
+    "id": "review_71_5",
+    "snackId": "71",
+    "reviewerName": "Hadi Kurniawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Tahu bulat mini ini cocok buat anak-anak, garing di luar dan lembut di dalam, ukurannya juga pas tidak terlalu besar.",
+    "reviewDate": "22 Feb 2026"
+  },
+  {
+    "id": "review_71_6",
+    "snackId": "71",
+    "reviewerName": "Irfan Maulana",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka tahu bulat mini ini, ukurannya pas buat sekali gigit. Recommended banget buat yang lagi cari oleh-oleh.",
+    "reviewDate": "24 Mar 2026"
+  },
+  {
+    "id": "review_72_1",
+    "snackId": "72",
+    "reviewerName": "Yuni Astuti",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Bagelannya manis mentega, renyah khas roti kering.",
+    "reviewDate": "15 May 2026"
+  },
+  {
+    "id": "review_72_2",
+    "snackId": "72",
+    "reviewerName": "Nina Marlina",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Roti kering bagelan ini wanginya khas mentega dan teksturnya renyah, cocok banget buat camilan santai.",
+    "reviewDate": "09 Mar 2026"
+  },
+  {
+    "id": "review_72_3",
+    "snackId": "72",
+    "reviewerName": "Rina Marlina",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi agak keras buat sebagian orang.",
+    "reviewDate": "14 May 2026"
+  },
+  {
+    "id": "review_72_4",
+    "snackId": "72",
+    "reviewerName": "Ratna Sari",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka bagelan ini buat teman teh sore.",
+    "reviewDate": "10 Jun 2026"
+  },
+  {
+    "id": "review_72_5",
+    "snackId": "72",
+    "reviewerName": "Erni Susanti",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Bagelannya manis mentega, renyah khas roti kering. Pengiriman juga rapi jadi sampai rumah masih utuh.",
+    "reviewDate": "07 Mar 2026"
+  },
+  {
+    "id": "review_73_1",
+    "snackId": "73",
+    "reviewerName": "Ani Susilawati",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Suka tortilla jagung ini buat cocolan saus.",
+    "reviewDate": "29 May 2026"
+  },
+  {
+    "id": "review_73_2",
+    "snackId": "73",
+    "reviewerName": "Lestari Ningsih",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Keripik tortilla ini cocok buat acara santai sama saus, renyahnya tahan lama dan rasanya gurih pas. Saya sudah beberapa kali repeat order dan kualitasnya konsisten.",
+    "reviewDate": "22 Mar 2026"
+  },
+  {
+    "id": "review_73_3",
+    "snackId": "73",
+    "reviewerName": "Putu Wirawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Tortillanya renyah, rasa lokalnya pas buat lidah Indonesia.",
+    "reviewDate": "18 Mar 2026"
+  },
+  {
+    "id": "review_73_4",
+    "snackId": "73",
+    "reviewerName": "Yulianti",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Enak tapi agak tipis jadi gampang patah.",
+    "reviewDate": "04 Mar 2026"
+  },
+  {
+    "id": "review_73_5",
+    "snackId": "73",
+    "reviewerName": "Arif Rahman",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka tortilla jagung ini buat cocolan saus.",
+    "reviewDate": "07 May 2026"
+  },
+  {
+    "id": "review_74_1",
+    "snackId": "74",
+    "reviewerName": "Hendra Gunawan",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi agak berminyak di kemasan.",
+    "reviewDate": "27 Mar 2026"
+  },
+  {
+    "id": "review_74_2",
+    "snackId": "74",
+    "reviewerName": "Fajar Nugroho",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka pastel mini ini, renyah dan isiannya berasa.",
+    "reviewDate": "27 Feb 2026"
+  },
+  {
+    "id": "review_74_3",
+    "snackId": "74",
+    "reviewerName": "Dwi Cahyani",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Pastel keringnya gurih, isi abonnya melimpah.",
+    "reviewDate": "06 May 2026"
+  },
+  {
+    "id": "review_74_4",
+    "snackId": "74",
+    "reviewerName": "Dedi Kurniadi",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Pastel kering mini ini favorit oleh-oleh, isi abonnya banyak dan kulitnya tetap renyah meski disimpan lama.",
+    "reviewDate": "12 Jun 2026"
+  },
+  {
+    "id": "review_74_5",
+    "snackId": "74",
+    "reviewerName": "Arif Rahman",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Suka pastel mini ini, renyah dan isiannya berasa.",
+    "reviewDate": "16 Jun 2026"
+  },
+  {
+    "id": "review_75_1",
+    "snackId": "75",
+    "reviewerName": "Wawan Setiawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Suka bidaran ini, aroma kejunya kuat banget.",
+    "reviewDate": "13 Apr 2026"
+  },
+  {
+    "id": "review_75_2",
+    "snackId": "75",
+    "reviewerName": "Erni Susanti",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kue bidarannya gurih keju, renyah dan pas rasanya. Recommended banget buat yang lagi cari oleh-oleh.",
+    "reviewDate": "02 May 2026"
+  },
+  {
+    "id": "review_75_3",
+    "snackId": "75",
+    "reviewerName": "Andi Saputra",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Enak tapi rasa kejunya kurang berasa buat saya.",
+    "reviewDate": "09 Mar 2026"
+  },
+  {
+    "id": "review_75_4",
+    "snackId": "75",
+    "reviewerName": "Anisa Rahmadani",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Kue bidaran keju ini jadi favorit baru, gurihnya pas dan teksturnya renyah merata di tiap keping.",
+    "reviewDate": "23 Mar 2026"
+  },
+  {
+    "id": "review_75_5",
+    "snackId": "75",
+    "reviewerName": "Yulianti",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka bidaran ini, aroma kejunya kuat banget.",
+    "reviewDate": "24 Mar 2026"
+  },
+  {
+    "id": "review_76_1",
+    "snackId": "76",
+    "reviewerName": "Yulianti",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka stik talas ini, beda dari stik singkong biasa. Recommended banget buat yang lagi cari oleh-oleh.",
+    "reviewDate": "17 Jun 2026"
+  },
+  {
+    "id": "review_76_2",
+    "snackId": "76",
+    "reviewerName": "Ahmad Fauzi",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Secara keseluruhan produk ini cukup memuaskan. Stik talas ini punya rasa khas yang unik, gurihnya pas dan teksturnya tetap renyah sampai habis.",
+    "reviewDate": "20 May 2026"
+  },
+  {
+    "id": "review_76_3",
+    "snackId": "76",
+    "reviewerName": "Eko Prasetyo",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Stik talesnya gurih, teksturnya khas dan renyah.",
+    "reviewDate": "08 May 2026"
+  },
+  {
+    "id": "review_76_4",
+    "snackId": "76",
+    "reviewerName": "Dian Safitri",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka stik talas ini, beda dari stik singkong biasa.",
+    "reviewDate": "21 May 2026"
+  },
+  {
+    "id": "review_76_5",
+    "snackId": "76",
+    "reviewerName": "Joko Susilo",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi agak keras di beberapa potongan.",
+    "reviewDate": "18 Mar 2026"
+  },
+  {
+    "id": "review_77_1",
+    "snackId": "77",
+    "reviewerName": "Fauzan Akbar",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Suka getuk goreng ini buat camilan sore.",
+    "reviewDate": "19 Jun 2026"
+  },
+  {
+    "id": "review_77_2",
+    "snackId": "77",
+    "reviewerName": "Imam Syafii",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Getuk gorengnya manis lezat, mengenyangkan juga.",
+    "reviewDate": "05 May 2026"
+  },
+  {
+    "id": "review_77_3",
+    "snackId": "77",
+    "reviewerName": "Asep Saepudin",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Getuk goreng ini manis dan mengenyangkan, cocok buat ganjal perut sambil nunggu makan besar.",
+    "reviewDate": "05 May 2026"
+  },
+  {
+    "id": "review_77_4",
+    "snackId": "77",
+    "reviewerName": "Linda Permata",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi agak lembek kalau sudah dingin.",
+    "reviewDate": "23 May 2026"
+  },
+  {
+    "id": "review_77_5",
+    "snackId": "77",
+    "reviewerName": "Nina Marlina",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka getuk goreng ini buat camilan sore.",
+    "reviewDate": "14 Apr 2026"
+  },
+  {
+    "id": "review_77_6",
+    "snackId": "77",
+    "reviewerName": "Kartika Putri",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Menurut penilaian saya, produk ini layak dicoba. Getuk gorengnya manis lezat, mengenyangkan juga.",
+    "reviewDate": "11 Mar 2026"
+  },
+  {
+    "id": "review_78_1",
+    "snackId": "78",
+    "reviewerName": "Wati Suryani",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Suka keripik ceker ini, rasa aslinya kerasa dan nggak amis. Bakal jadi langganan kalau lewat sini lagi.",
+    "reviewDate": "07 Jun 2026"
+  },
+  {
+    "id": "review_78_2",
+    "snackId": "78",
+    "reviewerName": "Tutik Handayani",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Kualitas produk ini di atas ekspektasi saya. Keripik cekernya gurih banget, renyah dan tulangnya empuk.",
+    "reviewDate": "21 Mar 2026"
+  },
+  {
+    "id": "review_78_3",
+    "snackId": "78",
+    "reviewerName": "Hadi Kurniawan",
+    "avatarUrl": null,
+    "rating": 5,
+    "comment": "Keripik ceker ayam ini juara, gurihnya nendang dan teksturnya renyah sempurna, pantes jadi best seller.",
+    "reviewDate": "28 Feb 2026"
+  },
+  {
+    "id": "review_78_4",
+    "snackId": "78",
+    "reviewerName": "Bayu Aji",
+    "avatarUrl": null,
+    "rating": 4,
+    "comment": "Suka keripik ceker ini, rasa aslinya kerasa dan nggak amis.",
+    "reviewDate": "21 May 2026"
+  },
+  {
+    "id": "review_78_5",
+    "snackId": "78",
+    "reviewerName": "Fajar Nugroho",
+    "avatarUrl": null,
+    "rating": 3,
+    "comment": "Enak tapi agak pedas buat sebagian orang, perlu hati-hati buat anak kecil.",
+    "reviewDate": "11 Mar 2026"
+  }
+]
