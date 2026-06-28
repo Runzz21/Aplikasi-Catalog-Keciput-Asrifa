@@ -51,6 +51,7 @@ fun ProfileScreen(
     onRiwayatClick: () -> Unit = {},
     onLoginClick: () -> Unit = {},
     onRegisterClick: () -> Unit = {},
+    onAdminClick: () -> Unit = {},
     viewModel: ProfileViewModel = hiltViewModel()
 ) {
     val context = LocalContext.current
@@ -93,6 +94,8 @@ fun ProfileScreen(
                         if (uiState.isLoggedIn) {
                             SectionLabel(text = "AKUN SAYA")
                             RiwayatMenuCard(onRiwayatClick = onRiwayatClick)
+                            Spacer(Modifier.height(4.dp))
+                            AdminMenuCard(onAdminClick = onAdminClick)
                             Spacer(Modifier.height(4.dp))
                         }
 
@@ -364,6 +367,47 @@ private fun RiwayatMenuCard(onRiwayatClick: () -> Unit) {
             Column(Modifier.weight(1f)) {
                 Text("Riwayat Pesanan", style = MaterialTheme.typography.labelLarge)
                 Text("Lihat pesanan yang sudah dikirim", style = MaterialTheme.typography.bodySmall)
+            }
+            Icon(Icons.Outlined.ChevronRight, null, tint = Ink.copy(alpha = 0.2f), modifier = Modifier.size(20.dp))
+        }
+    }
+}
+
+@Composable
+private fun AdminMenuCard(onAdminClick: () -> Unit) {
+    Surface(
+        modifier = Modifier
+            .fillMaxWidth()
+            .padding(horizontal = 14.dp)
+            .shadow(
+                elevation = 4.dp,
+                shape = RoundedCornerShape(16.dp),
+                ambientColor = CoralMid.copy(alpha = 0.1f),
+                spotColor = CoralMid.copy(alpha = 0.1f)
+            ),
+        shape = RoundedCornerShape(16.dp),
+        color = Color.White
+    ) {
+        Row(
+            modifier = Modifier
+                .fillMaxWidth()
+                .clickable { onAdminClick() }
+                .padding(14.dp),
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            Box(
+                modifier = Modifier
+                    .size(36.dp)
+                    .clip(RoundedCornerShape(10.dp))
+                    .background(CoralSoft.copy(0.15f)),
+                contentAlignment = Alignment.Center
+            ) {
+                Icon(Icons.Outlined.AdminPanelSettings, null, tint = CoralDark, modifier = Modifier.size(20.dp))
+            }
+            Spacer(Modifier.width(12.dp))
+            Column(Modifier.weight(1f)) {
+                Text("Admin Panel", style = MaterialTheme.typography.labelLarge)
+                Text("Kelola produk & data toko", style = MaterialTheme.typography.bodySmall)
             }
             Icon(Icons.Outlined.ChevronRight, null, tint = Ink.copy(alpha = 0.2f), modifier = Modifier.size(20.dp))
         }

@@ -36,4 +36,6 @@ sealed class Routes(val route: String) {
     data object RiwayatPesanan : Routes("riwayat_pesanan")
     data object Login : Routes("login")
     data object Register : Routes("register")
+    data object AdminList : Routes("admin_list")
+    data object AdminForm : Routes("admin_form")
 }

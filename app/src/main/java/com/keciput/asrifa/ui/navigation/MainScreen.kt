@@ -182,6 +182,9 @@ fun MainScreen(
                     },
                     onRegisterClick = {
                         rootNavController.navigate(Routes.Register.route)
+                    },
+                    onAdminClick = {
+                        rootNavController.navigate(Routes.AdminList.route)
                     }
                 )
             }

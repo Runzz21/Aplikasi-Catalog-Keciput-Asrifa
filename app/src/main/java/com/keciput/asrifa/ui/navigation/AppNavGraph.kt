@@ -7,6 +7,8 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
+import com.keciput.asrifa.ui.admin.AdminSnackFormScreen
+import com.keciput.asrifa.ui.admin.AdminSnackListScreen
 import com.keciput.asrifa.ui.auth.LoginScreen
 import com.keciput.asrifa.ui.auth.RegisterScreen
 import com.keciput.asrifa.ui.detail.DetailScreen
@@ -90,6 +92,19 @@ fun AppNavGraph(
         composable(Routes.RiwayatPesanan.route) {
             RiwayatPesananScreen(
                 onBack = { navController.popBackStack() }
+            )
+        }
+
+        // Admin Screens
+        composable(Routes.AdminList.route) {
+            AdminSnackListScreen(
+                onBack = { navController.popBackStack() }
+            )
+        }
+        composable(Routes.AdminForm.route) {
+            AdminSnackFormScreen(
+                onBack = { navController.popBackStack() },
+                onSaved = { navController.popBackStack() }
             )
         }
 
