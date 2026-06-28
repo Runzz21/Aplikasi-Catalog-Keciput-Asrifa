@@ -115,9 +115,5 @@ class ProfileViewModel @Inject constructor(
         scheduler.cancel()
     }
 
-    private fun getAppVersion(): String = try {
-        context.packageManager.getPackageInfo(context.packageName, 0).versionName ?: "1.0.0"
-    } catch (e: Exception) {
-        "1.0.0"
-    }
+    private fun getAppVersion(): String = "1.0.0"
 }

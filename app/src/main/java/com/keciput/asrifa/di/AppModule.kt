@@ -33,7 +33,6 @@ object AppModule {
             KeciputDatabase::class.java,
             "keciput_db"
         )
-        .fallbackToDestructiveMigration()
         .build()
     }
 

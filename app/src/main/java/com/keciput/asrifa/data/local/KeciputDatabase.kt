@@ -2,6 +2,8 @@ package com.keciput.asrifa.data.local
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
+import androidx.room.migration.Migration
+import androidx.sqlite.db.SupportSQLiteDatabase
 import com.keciput.asrifa.data.local.dao.CartDao
 import com.keciput.asrifa.data.local.dao.CategoryDao
 import com.keciput.asrifa.data.local.dao.OrderHistoryDao
@@ -25,7 +27,7 @@ import com.keciput.asrifa.data.local.entity.StoreInfoEntity
         OrderHistoryEntity::class
     ],
     version = 7,
-    exportSchema = false
+    exportSchema = true
 )
 abstract class KeciputDatabase : RoomDatabase() {
     abstract fun snackDao(): SnackDao
@@ -34,4 +36,8 @@ abstract class KeciputDatabase : RoomDatabase() {
     abstract fun reviewDao(): ReviewDao
     abstract fun storeInfoDao(): StoreInfoDao
     abstract fun orderHistoryDao(): OrderHistoryDao
+
+    companion object {
+        // Mulai dari sini, migrasi dilakukan proper (tidak destructive)
+    }
 }
