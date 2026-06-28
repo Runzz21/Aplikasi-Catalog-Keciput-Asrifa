@@ -15,3 +15,4 @@
 local.properties
 *.log
 replay_pid*.log
+app/google-services.json

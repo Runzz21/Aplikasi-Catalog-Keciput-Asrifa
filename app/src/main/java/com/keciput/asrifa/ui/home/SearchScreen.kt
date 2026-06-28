@@ -48,29 +48,9 @@ import com.keciput.asrifa.ui.components.KeciputSnackbarData
 import com.keciput.asrifa.ui.components.KeciputSnackbarHost
 import com.keciput.asrifa.ui.components.SnackbarType
 import com.keciput.asrifa.ui.components.rememberKeciputSnackbarState
+import com.keciput.asrifa.ui.components.ScallopedBottomShape
 import com.keciput.asrifa.ui.theme.*
 import kotlinx.coroutines.launch
-
-// Custom Scalloped Shape for Header
-class ScallopedBottomShape(private val scallopRadius: Float = 10f) : Shape {
-    override fun createOutline(size: androidx.compose.ui.geometry.Size, layoutDirection: androidx.compose.ui.unit.LayoutDirection, density: androidx.compose.ui.unit.Density): Outline {
-        val path = Path().apply {
-            val scallopHeight = 15f
-            moveTo(0f, 0f)
-            lineTo(size.width, 0f)
-            lineTo(size.width, size.height - scallopHeight)
-            val count = (size.width / (scallopRadius * 2)).toInt().coerceAtLeast(1)
-            val step = size.width / count
-            for (i in 0 until count) {
-                val x = size.width - (i * step)
-                quadraticTo(x - step / 2, size.height + scallopHeight, x - step, size.height - scallopHeight)
-            }
-            lineTo(0f, 0f)
-            close()
-        }
-        return Outline.Generic(path)
-    }
-}
 
 @OptIn(ExperimentalMaterial3Api::class, ExperimentalLayoutApi::class)
 @Composable

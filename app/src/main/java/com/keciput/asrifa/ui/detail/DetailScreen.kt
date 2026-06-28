@@ -46,28 +46,11 @@ import com.keciput.asrifa.ui.components.KeciputSnackbarData
 import com.keciput.asrifa.ui.components.KeciputSnackbarHost
 import com.keciput.asrifa.ui.components.SnackbarType
 import com.keciput.asrifa.ui.components.rememberKeciputSnackbarState
+import com.keciput.asrifa.ui.components.ScallopedTopShape
 import com.keciput.asrifa.ui.theme.*
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 import java.util.Locale
-
-class ScallopedTopShape(private val scallopRadius: Float = 15f) : Shape {
-    override fun createOutline(size: androidx.compose.ui.geometry.Size, layoutDirection: androidx.compose.ui.unit.LayoutDirection, density: androidx.compose.ui.unit.Density): Outline {
-        val path = Path().apply {
-            moveTo(0f, 30f)
-            val count = (size.width / (scallopRadius * 2)).toInt().coerceAtLeast(1)
-            val step = size.width / count
-            for (i in 0 until count) {
-                val x = i * step
-                quadraticTo(x + step / 2, -10f, x + step, 30f)
-            }
-            lineTo(size.width, size.height)
-            lineTo(0f, size.height)
-            close()
-        }
-        return Outline.Generic(path)
-    }
-}
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

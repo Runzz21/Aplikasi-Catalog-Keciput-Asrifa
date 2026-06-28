@@ -27,7 +27,6 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.draw.drawBehind
 import androidx.compose.ui.draw.shadow
 import androidx.compose.ui.geometry.Offset
-import androidx.compose.ui.geometry.Size
 import androidx.compose.ui.graphics.*
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
@@ -35,8 +34,6 @@ import com.keciput.asrifa.ui.components.sesamePattern
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextOverflow
-import androidx.compose.ui.unit.Density
-import androidx.compose.ui.unit.LayoutDirection
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.hilt.navigation.compose.hiltViewModel
@@ -50,50 +47,12 @@ import com.keciput.asrifa.ui.components.KeciputSnackbarData
 import com.keciput.asrifa.ui.components.KeciputSnackbarHost
 import com.keciput.asrifa.ui.components.SnackbarType
 import com.keciput.asrifa.ui.components.rememberKeciputSnackbarState
+import com.keciput.asrifa.ui.components.ScallopedBottomShape
+import com.keciput.asrifa.ui.components.ScallopedTopShape
 import com.keciput.asrifa.ui.theme.*
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 import java.net.URLEncoder
-
-// Signature Scalloped Shape for the Header Transition
-class ScallopedBottomShape(private val scallopRadius: Float = 10f) : Shape {
-    override fun createOutline(size: Size, layoutDirection: LayoutDirection, density: Density): Outline {
-        val path = Path().apply {
-            val scallopHeight = 20f
-            moveTo(0f, 0f)
-            lineTo(size.width, 0f)
-            lineTo(size.width, size.height - scallopHeight)
-            val count = (size.width / (scallopRadius * 2)).toInt().coerceAtLeast(1)
-            val step = size.width / count
-            for (i in 0 until count) {
-                val x = size.width - (i * step)
-                quadraticTo(x - step / 2, size.height, x - step, size.height - scallopHeight)
-            }
-            close()
-        }
-        return Outline.Generic(path)
-    }
-}
-
-// Signature Scalloped Shape for the Checkout Bar
-class ScallopedTopShape(private val scallopRadius: Float = 12f) : Shape {
-    override fun createOutline(size: Size, layoutDirection: LayoutDirection, density: Density): Outline {
-        val path = Path().apply {
-            val scallopHeight = 20f
-            moveTo(0f, scallopHeight)
-            val count = (size.width / (scallopRadius * 2)).toInt().coerceAtLeast(1)
-            val step = size.width / count
-            for (i in 0 until count) {
-                val x = i * step
-                quadraticTo(x + step / 2, -scallopHeight, x + step, scallopHeight)
-            }
-            lineTo(size.width, size.height)
-            lineTo(0f, size.height)
-            close()
-        }
-        return Outline.Generic(path)
-    }
-}
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
